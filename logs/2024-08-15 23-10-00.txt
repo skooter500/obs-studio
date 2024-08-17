@@ -1,0 +1,326 @@
+23:10:00.404: CPU Name: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+23:10:00.404: CPU Speed: 2808MHz
+23:10:00.404: Physical Cores: 4, Logical Cores: 8
+23:10:00.404: Physical Memory: 16253MB Total, 8128MB Free
+23:10:00.404: Windows Version: 10.0 Build 19045 (release: 2009; revision: 4651; 64-bit)
+23:10:00.404: Running as administrator: true
+23:10:00.404: Aero is Enabled (Aero is always on for windows 8 and above)
+23:10:00.404: Windows 10 Gaming Features:
+23:10:00.404: 	Game DVR: On
+23:10:00.409: Sec. Software Status:
+23:10:00.411: 	Microsoft Defender Antivirus: enabled (AV)
+23:10:00.411: 	Windows Firewall: enabled (FW)
+23:10:00.412: Current Date/Time: 2024-08-15, 23:10:00
+23:10:00.412: Browser Hardware Acceleration: true
+23:10:00.412: Portable mode: false
+23:10:00.927: OBS 27.1.3 (64-bit, windows)
+23:10:00.927: ---------------------------------
+23:10:01.079: ---------------------------------
+23:10:01.079: audio settings reset:
+23:10:01.079: 	samples per sec: 48000
+23:10:01.079: 	speakers:        2
+23:10:01.081: ---------------------------------
+23:10:01.081: Initializing D3D11...
+23:10:01.081: Available Video Adapters: 
+23:10:01.090: 	Adapter 0: NVIDIA GeForce GTX 1060
+23:10:01.090: 	  Dedicated VRAM: 2026897408
+23:10:01.090: 	  Shared VRAM:    4226398208
+23:10:01.090: 	  PCI ID:         10de:1c20
+23:10:01.091: 	  Driver Version: 32.0.15.5585
+23:10:01.091: 	  output 0: pos={0, 0}, size={2560, 1440}, attached=true, refresh=60, name=
+23:10:01.091: 	  output 1: pos={-209, -1080}, size={1920, 1080}, attached=true, refresh=60, name=HP VH27
+23:10:01.091: 	  output 2: pos={2560, 239}, size={1920, 1080}, attached=true, refresh=60, name=EPSON PJ
+23:10:01.091: 	Adapter 1: Intel(R) HD Graphics 630
+23:10:01.091: 	  Dedicated VRAM: 134217728
+23:10:01.091: 	  Shared VRAM:    4226398208
+23:10:01.091: 	  PCI ID:         8086:591b
+23:10:01.092: 	  Driver Version: 27.20.100.9664
+23:10:01.092: 	Adapter 2: Intel(R) HD Graphics 630
+23:10:01.092: 	  Dedicated VRAM: 134217728
+23:10:01.092: 	  Shared VRAM:    4226398208
+23:10:01.092: 	  PCI ID:         8086:591b
+23:10:01.092: 	  Driver Version: 27.20.100.9664
+23:10:01.100: Loading up D3D11 on adapter NVIDIA GeForce GTX 1060 (0)
+23:10:01.321: D3D11 loaded successfully, feature level used: b000
+23:10:01.321: DXGI increase maximum frame latency success
+23:10:01.321: D3D11 GPU priority setup success
+23:10:02.315: ---------------------------------
+23:10:02.315: video settings reset:
+23:10:02.315: 	base resolution:   1920x1080
+23:10:02.315: 	output resolution: 1920x1080
+23:10:02.315: 	downscale filter:  Bicubic
+23:10:02.315: 	fps:               60/1
+23:10:02.315: 	format:            NV12
+23:10:02.315: 	YUV mode:          709/Partial
+23:10:02.315: NV12 texture support enabled
+23:10:02.317: Audio monitoring device:
+23:10:02.317: 	name: Default
+23:10:02.317: 	id: default
+23:10:02.317: ---------------------------------
+23:10:02.318: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+23:10:02.338: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+23:10:02.340: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+23:10:02.343: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+23:10:02.425: [AMF] Unable to load 'amfrt64.dll', error code 126.
+23:10:02.428: [AMF] AMF Test failed due to one or more errors.
+23:10:02.428: Failed to initialize module 'enc-amf.dll'
+23:10:02.469: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+23:10:02.481: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+23:10:02.484: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+23:10:02.504: [obs-browser]: Version 2.16.3
+23:10:02.504: [obs-browser]: CEF Version 75.1.16+g16a67c4+chromium-75.0.3770.100
+23:10:02.530: NVENC supported
+23:10:02.548: [noise suppress]: NVIDIA RTX denoiser disabled, redistributable not found
+23:10:02.816: VLC found, VLC video source enabled
+23:10:02.866: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+23:10:02.868: No blackmagic support
+23:10:02.905: ---------------------------------
+23:10:02.905:   Loaded Modules:
+23:10:02.905:     win-wasapi.dll
+23:10:02.905:     win-mf.dll
+23:10:02.905:     win-dshow.dll
+23:10:02.905:     win-decklink.dll
+23:10:02.905:     win-capture.dll
+23:10:02.905:     vlc-video.dll
+23:10:02.905:     text-freetype2.dll
+23:10:02.905:     rtmp-services.dll
+23:10:02.905:     obs-x264.dll
+23:10:02.905:     obs-vst.dll
+23:10:02.905:     obs-transitions.dll
+23:10:02.905:     obs-text.dll
+23:10:02.905:     obs-qsv11.dll
+23:10:02.905:     obs-outputs.dll
+23:10:02.905:     obs-filters.dll
+23:10:02.905:     obs-ffmpeg.dll
+23:10:02.905:     obs-browser.dll
+23:10:02.905:     image-source.dll
+23:10:02.905:     frontend-tools.dll
+23:10:02.905:     enc-amf.dll
+23:10:02.905:     decklink-ouput-ui.dll
+23:10:02.905:     decklink-captions.dll
+23:10:02.905:     coreaudio-encoder.dll
+23:10:02.905: ---------------------------------
+23:10:02.906: ==== Startup complete ===============================================
+23:10:02.928: All scene data cleared
+23:10:02.928: ------------------------------------------------
+23:10:03.390: WASAPI: Device 'Speakers (7- USB AUDIO  CODEC)' [48000 Hz] initialized
+23:10:03.390: [Loaded global audio device]: 'Desktop Audio'
+23:10:03.616: WASAPI: Device 'Microphone (Realtek Audio)' [48000 Hz] initialized
+23:10:03.616: [Loaded global audio device]: 'Mic/Aux'
+23:10:03.618: [duplicator-monitor-capture: 'Display Capture 3'] update settings:
+23:10:03.618: 	display: 2 (1920x1080)
+23:10:03.618: 	cursor: true
+23:10:03.618: 	method: WGC
+23:10:03.643: [duplicator-monitor-capture: 'Display Capture 2'] update settings:
+23:10:03.643: 	display: 2 (1920x1080)
+23:10:03.643: 	cursor: true
+23:10:03.643: 	method: WGC
+23:10:03.644: Switched to scene 'Horizontal Mirror'
+23:10:03.644: ------------------------------------------------
+23:10:03.644: Loaded scenes:
+23:10:03.644: - scene 'Full Screen':
+23:10:03.644:     - source: 'Display Capture 2' (monitor_capture)
+23:10:03.644: - scene 'Horizontal Mirror':
+23:10:03.644:     - source: 'Display Capture 3' (monitor_capture)
+23:10:03.644:         - filter: 'Crop/Pad' (crop_filter)
+23:10:03.644:         - filter: 'Scaling/Aspect Ratio' (scale_filter)
+23:10:03.644:     - source: 'Display Capture 3' (monitor_capture)
+23:10:03.644:         - filter: 'Crop/Pad' (crop_filter)
+23:10:03.644:         - filter: 'Scaling/Aspect Ratio' (scale_filter)
+23:10:03.644: ------------------------------------------------
+23:10:03.654: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+23:10:03.654: 
+23:10:11.663: User switched to scene 'Full Screen'
+23:10:13.450: User switched to scene 'Horizontal Mirror'
+23:10:17.284: User switched to scene 'Full Screen'
+23:10:19.064: User switched to scene 'Horizontal Mirror'
+23:11:16.884: User added scene 'Quad Mirror'
+23:11:16.884: User added source 'Display Capture 3' (monitor_capture) to scene 'Quad Mirror'
+23:11:16.884: User added source 'Display Capture 3' (monitor_capture) to scene 'Quad Mirror'
+23:11:16.893: Switched to scene 'Quad Mirror'
+23:13:13.611: User switched to scene 'Horizontal Mirror'
+23:13:30.598: User switched to scene 'Quad Mirror'
+23:13:36.801: User switched to scene 'Horizontal Mirror'
+23:13:41.338: User switched to scene 'Quad Mirror'
+23:14:09.498: User switched to scene 'Horizontal Mirror'
+23:14:53.567: User Removed scene 'Quad Mirror'
+23:15:01.405: User Removed source 'Display Capture 3' (monitor_capture) from scene 'Horizontal Mirror'
+23:15:06.162: User added source 'Display Capture 3' (monitor_capture) to scene 'Horizontal Mirror'
+23:16:19.170: User Removed source 'Display Capture 3' (monitor_capture) from scene 'Horizontal Mirror'
+23:16:22.023: User switched to scene 'Full Screen'
+23:16:30.245: User switched to scene 'Horizontal Mirror'
+23:16:38.850: User added source 'Display Capture 3' (monitor_capture) to scene 'Horizontal Mirror'
+23:17:18.466: User switched to scene 'Full Screen'
+23:17:18.510: User Removed scene 'Horizontal Mirror'
+23:17:37.234: User added scene 'Horizontal Flip'
+23:17:37.236: User switched to scene 'Horizontal Flip'
+23:17:47.422: [duplicator-monitor-capture: 'Display Capture'] update settings:
+23:17:47.422: 	display: 1 (2560x1440)
+23:17:47.422: 	cursor: true
+23:17:47.422: 	method: WGC
+23:17:47.428: User added source 'Display Capture' (monitor_capture) to scene 'Horizontal Flip'
+23:17:51.054: [duplicator-monitor-capture: 'Display Capture'] update settings:
+23:17:51.054: 	display: 2 (1920x1080)
+23:17:51.054: 	cursor: true
+23:17:51.054: 	method: WGC
+23:17:51.538: [duplicator-monitor-capture: 'Display Capture'] update settings:
+23:17:51.538: 	display: 2 (1920x1080)
+23:17:51.538: 	cursor: true
+23:17:51.538: 	method: WGC
+23:18:36.033: User added filter 'Crop/Pad' (crop_filter) to source 'Display Capture'
+23:19:01.865: [duplicator-monitor-capture: 'Display Capture 3'] update settings:
+23:19:01.865: 	display: 1 (2560x1440)
+23:19:01.865: 	cursor: true
+23:19:01.865: 	method: WGC
+23:19:01.868: User added source 'Display Capture 3' (monitor_capture) to scene 'Horizontal Flip'
+23:19:09.754: [duplicator-monitor-capture: 'Display Capture 3'] update settings:
+23:19:09.754: 	display: 2 (1920x1080)
+23:19:09.754: 	cursor: true
+23:19:09.754: 	method: WGC
+23:19:10.255: [duplicator-monitor-capture: 'Display Capture 3'] update settings:
+23:19:10.255: 	display: 2 (1920x1080)
+23:19:10.255: 	cursor: true
+23:19:10.255: 	method: WGC
+23:19:34.330: User added filter 'Crop/Pad' (crop_filter) to source 'Display Capture 3'
+23:20:11.864: User added scene 'Quad Flip'
+23:20:11.865: User switched to scene 'Quad Flip'
+23:20:19.374: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+23:20:19.374: 	display: 1 (2560x1440)
+23:20:19.374: 	cursor: true
+23:20:19.374: 	method: WGC
+23:20:19.379: User added source 'Display Capture 4' (monitor_capture) to scene 'Quad Flip'
+23:20:24.088: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+23:20:24.088: 	display: 2 (1920x1080)
+23:20:24.088: 	cursor: true
+23:20:24.088: 	method: WGC
+23:20:24.572: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+23:20:24.572: 	display: 2 (1920x1080)
+23:20:24.572: 	cursor: true
+23:20:24.572: 	method: WGC
+23:20:49.971: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+23:20:49.971: 	display: 1 (2560x1440)
+23:20:49.971: 	cursor: true
+23:20:49.971: 	method: WGC
+23:20:55.605: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+23:20:55.605: 	display: 2 (1920x1080)
+23:20:55.605: 	cursor: true
+23:20:55.605: 	method: WGC
+23:20:56.104: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+23:20:56.104: 	display: 2 (1920x1080)
+23:20:56.104: 	cursor: true
+23:20:56.104: 	method: WGC
+23:21:07.731: [duplicator-monitor-capture: 'Display Capture 5'] update settings:
+23:21:07.731: 	display: 1 (2560x1440)
+23:21:07.731: 	cursor: true
+23:21:07.731: 	method: WGC
+23:21:07.735: User added source 'Display Capture 5' (monitor_capture) to scene 'Quad Flip'
+23:21:11.088: [duplicator-monitor-capture: 'Display Capture 5'] update settings:
+23:21:11.088: 	display: 2 (1920x1080)
+23:21:11.088: 	cursor: true
+23:21:11.088: 	method: WGC
+23:21:11.589: [duplicator-monitor-capture: 'Display Capture 5'] update settings:
+23:21:11.589: 	display: 2 (1920x1080)
+23:21:11.589: 	cursor: true
+23:21:11.589: 	method: WGC
+23:21:30.702: [duplicator-monitor-capture: 'Display Capture 6'] update settings:
+23:21:30.702: 	display: 1 (2560x1440)
+23:21:30.702: 	cursor: true
+23:21:30.702: 	method: WGC
+23:21:30.706: User added source 'Display Capture 6' (monitor_capture) to scene 'Quad Flip'
+23:21:33.523: [duplicator-monitor-capture: 'Display Capture 6'] update settings:
+23:21:33.523: 	display: 2 (1920x1080)
+23:21:33.523: 	cursor: true
+23:21:33.523: 	method: WGC
+23:21:34.046: [duplicator-monitor-capture: 'Display Capture 6'] update settings:
+23:21:34.046: 	display: 2 (1920x1080)
+23:21:34.046: 	cursor: true
+23:21:34.046: 	method: WGC
+23:21:51.787: [duplicator-monitor-capture: 'Display Capture 7'] update settings:
+23:21:51.787: 	display: 1 (2560x1440)
+23:21:51.787: 	cursor: true
+23:21:51.787: 	method: WGC
+23:21:51.792: User added source 'Display Capture 7' (monitor_capture) to scene 'Quad Flip'
+23:21:54.405: [duplicator-monitor-capture: 'Display Capture 7'] update settings:
+23:21:54.405: 	display: 2 (1920x1080)
+23:21:54.405: 	cursor: true
+23:21:54.405: 	method: WGC
+23:21:54.905: [duplicator-monitor-capture: 'Display Capture 7'] update settings:
+23:21:54.905: 	display: 2 (1920x1080)
+23:21:54.905: 	cursor: true
+23:21:54.905: 	method: WGC
+23:22:12.945: [duplicator-monitor-capture: 'Display Capture 7'] update settings:
+23:22:12.945: 	display: 2 (1920x1080)
+23:22:12.945: 	cursor: true
+23:22:12.945: 	method: WGC
+23:28:43.184: User added scene 'Quad Kalidiscope'
+23:28:43.187: User switched to scene 'Quad Kalidiscope'
+23:28:56.764: User switched to scene 'Quad Flip'
+23:29:20.491: Source 'Group' renamed to '4 Cornors'
+23:29:33.520: User switched to scene 'Quad Kalidiscope'
+23:29:37.115: User added source '4 Cornors 2' (group) to scene 'Quad Kalidiscope'
+23:32:49.847: ==== Shutting down ==================================================
+23:32:49.865: WASAPI: Device 'Speakers (7- USB AUDIO  CODEC)' Terminated
+23:32:49.871: WASAPI: Device 'Microphone (Realtek Audio)' Terminated
+23:32:49.883: All scene data cleared
+23:32:49.883: ------------------------------------------------
+23:32:50.119: [Scripting] Total detached callbacks: 0
+23:32:50.120: Freeing OBS context data
+23:32:50.166: == Profiler Results =============================
+23:32:50.166: run_program_init: 3835.03 ms
+23:32:50.166:  ┣OBSApp::AppInit: 344.166 ms
+23:32:50.166:  ┃ ┗OBSApp::InitLocale: 19.812 ms
+23:32:50.166:  ┗OBSApp::OBSInit: 3463.45 ms
+23:32:50.166:    ┣obs_startup: 8.097 ms
+23:32:50.166:    ┗OBSBasic::OBSInit: 2789.08 ms
+23:32:50.166:      ┣OBSBasic::InitBasicConfig: 0.914 ms
+23:32:50.166:      ┣OBSBasic::ResetAudio: 0.217 ms
+23:32:50.166:      ┣OBSBasic::ResetVideo: 1237.71 ms
+23:32:50.166:      ┣OBSBasic::InitOBSCallbacks: 0.008 ms
+23:32:50.166:      ┣OBSBasic::InitHotkeys: 0.07 ms
+23:32:50.166:      ┣obs_load_all_modules: 587.649 ms
+23:32:50.166:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 3.516 ms
+23:32:50.166:      ┃ ┣obs_init_module(decklink-captions.dll): 0.031 ms
+23:32:50.166:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 0.648 ms
+23:32:50.166:      ┃ ┣obs_init_module(enc-amf.dll): 67.561 ms
+23:32:50.166:      ┃ ┣obs_init_module(frontend-tools.dll): 6.036 ms
+23:32:50.166:      ┃ ┣obs_init_module(image-source.dll): 0.009 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-browser.dll): 0.658 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 2.715 ms
+23:32:50.166:      ┃ ┃ ┗nvenc_check: 2.64 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-filters.dll): 0.106 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-outputs.dll): 0.02 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-qsv11.dll): 137.057 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-text.dll): 0.262 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-transitions.dll): 0.007 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-vst.dll): 0.003 ms
+23:32:50.166:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+23:32:50.166:      ┃ ┣obs_init_module(rtmp-services.dll): 13.21 ms
+23:32:50.166:      ┃ ┣obs_init_module(text-freetype2.dll): 0.114 ms
+23:32:50.166:      ┃ ┣obs_init_module(vlc-video.dll): 3.922 ms
+23:32:50.166:      ┃ ┣obs_init_module(win-capture.dll): 20.628 ms
+23:32:50.166:      ┃ ┣obs_init_module(win-decklink.dll): 3.683 ms
+23:32:50.166:      ┃ ┣obs_init_module(win-dshow.dll): 3.926 ms
+23:32:50.166:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+23:32:50.166:      ┃ ┣obs_init_module(win-wasapi.dll): 0.012 ms
+23:32:50.166:      ┃ ┗reset_win32_symbol_paths: 0.472 ms
+23:32:50.166:      ┣OBSBasic::ResetOutputs: 0.404 ms
+23:32:50.166:      ┣OBSBasic::CreateHotkeys: 0.409 ms
+23:32:50.166:      ┣OBSBasic::InitService: 3.577 ms
+23:32:50.166:      ┣OBSBasic::InitPrimitives: 0.198 ms
+23:32:50.166:      ┗OBSBasic::Load: 724.673 ms
+23:32:50.166: obs_hotkey_thread(25 ms): min=0.003 ms, median=0.01 ms, max=8.337 ms, 99th percentile=0.185 ms, 100% below 25 ms
+23:32:50.167: audio_thread(Audio): min=0 ms, median=0.077 ms, max=16.881 ms, 99th percentile=0.54 ms
+23:32:50.167: obs_graphics_thread(16.6667 ms): min=0.065 ms, median=1.785 ms, max=181.372 ms, 99th percentile=7.242 ms, 99.7839% below 16.667 ms
+23:32:50.167:  ┣tick_sources: min=0.001 ms, median=0.026 ms, max=177.291 ms, 99th percentile=0.201 ms
+23:32:50.167:  ┣output_frame: min=0.053 ms, median=0.174 ms, max=73.356 ms, 99th percentile=0.929 ms
+23:32:50.167:  ┃ ┗gs_context(video->graphics): min=0.053 ms, median=0.173 ms, max=73.354 ms, 99th percentile=0.926 ms
+23:32:50.167:  ┃   ┣render_video: min=0.006 ms, median=0.055 ms, max=14.908 ms, 99th percentile=0.45 ms
+23:32:50.167:  ┃   ┃ ┗render_main_texture: min=0.003 ms, median=0.052 ms, max=14.901 ms, 99th percentile=0.38 ms
+23:32:50.167:  ┃   ┗gs_flush: min=0.038 ms, median=0.112 ms, max=73.191 ms, 99th percentile=0.565 ms
+23:32:50.167:  ┗render_displays: min=0 ms, median=0.839 ms, max=68.698 ms, 99th percentile=4.444 ms
+23:32:50.167: =================================================
+23:32:50.167: == Profiler Time Between Calls ==================
+23:32:50.167: obs_hotkey_thread(25 ms): min=24.209 ms, median=25.93 ms, max=82.548 ms, 4.75875% within ±2% of 25 ms (0.0037843% lower, 95.2375% higher)
+23:32:50.167: obs_graphics_thread(16.6667 ms): min=0.761 ms, median=16.667 ms, max=181.481 ms, 97.5668% within ±2% of 16.667 ms (1.19399% lower, 1.23916% higher)
+23:32:50.167: =================================================
+23:32:50.227: Number of memory leaks: 0

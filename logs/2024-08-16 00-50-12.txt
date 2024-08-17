@@ -1,0 +1,476 @@
+00:50:12.653: CPU Name: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+00:50:12.653: CPU Speed: 2808MHz
+00:50:12.653: Physical Cores: 4, Logical Cores: 8
+00:50:12.653: Physical Memory: 16253MB Total, 8708MB Free
+00:50:12.653: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 4651; 64-bit)
+00:50:12.654: Running as administrator: true
+00:50:12.654: Windows 10/11 Gaming Features:
+00:50:12.654: 	Game DVR: On
+00:50:12.654: 	Game Mode: Probably On (no reg key set)
+00:50:12.656: Sec. Software Status:
+00:50:12.657: 	Microsoft Defender Antivirus: enabled (AV)
+00:50:12.658: 	Windows Firewall: enabled (FW)
+00:50:12.659: Current Date/Time: 2024-08-16, 00:50:12
+00:50:12.659: Browser Hardware Acceleration: true
+00:50:12.659: Hide OBS windows from screen capture: false
+00:50:12.659: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+00:50:12.659: Portable mode: false
+00:50:13.183: OBS 30.2.2 (64-bit, windows)
+00:50:13.183: ---------------------------------
+00:50:13.304: ---------------------------------
+00:50:13.304: audio settings reset:
+00:50:13.304: 	samples per sec: 48000
+00:50:13.304: 	speakers:        2
+00:50:13.304: 	max buffering:   960 milliseconds
+00:50:13.304: 	buffering type:  dynamically increasing
+00:50:13.333: ---------------------------------
+00:50:13.333: Initializing D3D11...
+00:50:13.333: Available Video Adapters: 
+00:50:13.341: 	Adapter 0: NVIDIA GeForce GTX 1060
+00:50:13.341: 	  Dedicated VRAM: 6321864704 (5.9 GiB)
+00:50:13.341: 	  Shared VRAM:    8521365504 (7.9 GiB)
+00:50:13.341: 	  PCI ID:         10de:1c20
+00:50:13.341: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+00:50:13.342: 	  Driver Version: 32.0.15.5585
+00:50:13.343: 	  output 0:
+00:50:13.343: 	    name=
+00:50:13.343: 	    pos={0, 0}
+00:50:13.343: 	    size={2560, 1440}
+00:50:13.343: 	    attached=true
+00:50:13.343: 	    refresh=60
+00:50:13.343: 	    bits_per_color=8
+00:50:13.343: 	    space=RGB_FULL_G22_NONE_P709
+00:50:13.343: 	    primaries=[r=(0.684570, 0.312500), g=(0.243164, 0.707031), b=(0.138672, 0.054688), wp=(0.312500, 0.329102)]
+00:50:13.343: 	    relative_gamut_area=[709=1.468871, P3=1.082809, 2020=0.776843]
+00:50:13.343: 	    sdr_white_nits=80
+00:50:13.343: 	    nit_range=[min=50.000000, max=300.000000, max_full_frame=300.000000]
+00:50:13.343: 	    dpi=96 (100%)
+00:50:13.343: 	    id=\\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:50:13.343: 	    alt_id=\\.\DISPLAY1
+00:50:13.344: 	  output 1:
+00:50:13.344: 	    name=HP VH27
+00:50:13.344: 	    pos={-1920, 494}
+00:50:13.344: 	    size={1920, 1080}
+00:50:13.344: 	    attached=true
+00:50:13.344: 	    refresh=60
+00:50:13.344: 	    bits_per_color=8
+00:50:13.344: 	    space=RGB_FULL_G22_NONE_P709
+00:50:13.344: 	    primaries=[r=(0.657227, 0.335938), g=(0.318359, 0.605469), b=(0.148438, 0.061523), wp=(0.313477, 0.329102)]
+00:50:13.344: 	    relative_gamut_area=[709=1.026883, P3=0.756988, 2020=0.543088]
+00:50:13.344: 	    sdr_white_nits=80
+00:50:13.344: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+00:50:13.344: 	    dpi=96 (100%)
+00:50:13.344: 	    id=\\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:50:13.344: 	    alt_id=\\.\DISPLAY4
+00:50:13.345: 	  output 2:
+00:50:13.345: 	    name=EPSON PJ
+00:50:13.345: 	    pos={2560, 346}
+00:50:13.345: 	    size={1920, 1080}
+00:50:13.345: 	    attached=true
+00:50:13.345: 	    refresh=60
+00:50:13.345: 	    bits_per_color=8
+00:50:13.345: 	    space=RGB_FULL_G22_NONE_P709
+00:50:13.345: 	    primaries=[r=(0.639648, 0.329102), g=(0.299805, 0.599609), b=(0.149414, 0.059570), wp=(0.312500, 0.328125)]
+00:50:13.345: 	    relative_gamut_area=[709=1.000494, P3=0.737535, 2020=0.529132]
+00:50:13.345: 	    sdr_white_nits=80
+00:50:13.345: 	    nit_range=[min=0.010000, max=1499.000000, max_full_frame=799.000000]
+00:50:13.345: 	    dpi=96 (100%)
+00:50:13.345: 	    id=\\?\DISPLAY#SECA826#5&468c2f0&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:50:13.345: 	    alt_id=\\.\DISPLAY5
+00:50:13.345: 	Adapter 1: Intel(R) HD Graphics 630
+00:50:13.345: 	  Dedicated VRAM: 134217728 (0.1 GiB)
+00:50:13.345: 	  Shared VRAM:    8521365504 (7.9 GiB)
+00:50:13.345: 	  PCI ID:         8086:591b
+00:50:13.345: 	  HAGS Status:    Disabled (Default: No, Driver status: Unsupported)
+00:50:13.346: 	  Driver Version: 27.20.100.9664
+00:50:13.346: 	Adapter 2: Intel(R) HD Graphics 630
+00:50:13.346: 	  Dedicated VRAM: 134217728 (0.1 GiB)
+00:50:13.346: 	  Shared VRAM:    8521365504 (7.9 GiB)
+00:50:13.346: 	  PCI ID:         8086:591b
+00:50:13.346: 	  HAGS Status:    Disabled (Default: No, Driver status: Unsupported)
+00:50:13.346: 	  Driver Version: 27.20.100.9664
+00:50:13.350: Loading up D3D11 on adapter NVIDIA GeForce GTX 1060 (0)
+00:50:13.485: D3D11 loaded successfully, feature level used: b000
+00:50:13.485: DXGI increase maximum frame latency success
+00:50:13.485: D3D11 GPU priority setup success
+00:50:15.744: ---------------------------------
+00:50:15.744: video settings reset:
+00:50:15.744: 	base resolution:   1920x1080
+00:50:15.744: 	output resolution: 1920x1080
+00:50:15.744: 	downscale filter:  Bicubic
+00:50:15.744: 	fps:               60/1
+00:50:15.744: 	format:            NV12
+00:50:15.744: 	YUV mode:          Rec. 709/Partial
+00:50:15.744: NV12 texture support enabled
+00:50:15.744: P010 texture support not available
+00:50:15.746: Audio monitoring device:
+00:50:15.746: 	name: Default
+00:50:15.746: 	id: default
+00:50:15.746: ---------------------------------
+00:50:15.800: No AJA devices found, skipping loading AJA UI plugin
+00:50:15.800: Failed to initialize module 'aja-output-ui.dll'
+00:50:15.849: No AJA devices found, skipping loading AJA plugin
+00:50:15.849: Failed to initialize module 'aja.dll'
+00:50:16.088: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+00:50:16.128: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+00:50:16.156: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+00:50:16.188: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+00:50:16.226: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+00:50:16.226: Failed to initialize module 'decklink.dll'
+00:50:16.274: [AMF] Unable to load 'amfrt64.dll', error code 126.
+00:50:16.276: [AMF] AMF Test failed due to one or more errors.
+00:50:16.276: Failed to initialize module 'enc-amf.dll'
+00:50:16.456: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+00:50:16.496: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+00:50:16.538: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+00:50:16.644: [obs-browser]: Version 2.23.5
+00:50:16.644: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2594+gc69ad37+chromium-103.0.5060.134 (compiled)
+00:50:16.832: NVENC supported
+00:50:17.210: [NVENC] AV1 is not supported
+00:50:17.246: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+00:50:17.247: Failed to get NVVideoEffects.dll version info size
+00:50:17.250: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+00:50:19.071: [obs-shaderfilter] loaded version 2.3.2
+00:50:19.307: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+00:50:19.307: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+00:50:19.307: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+00:50:19.308: [obs-websocket] [Config::Load] Existing configuration not found, using defaults.
+00:50:19.308: [obs-websocket] [Config::Load] (FirstLoad) Generating new server password.
+00:50:19.322: [obs-websocket] [obs_module_load] Module loaded.
+00:50:19.461: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+00:50:19.673: ---------------------------------
+00:50:19.673:   Loaded Modules:
+00:50:19.673:     win-wasapi.dll
+00:50:19.673:     win-dshow.dll
+00:50:19.673:     win-capture.dll
+00:50:19.673:     vlc-video.dll
+00:50:19.673:     text-freetype2.dll
+00:50:19.673:     rtmp-services.dll
+00:50:19.673:     obs-x264.dll
+00:50:19.673:     obs-websocket.dll
+00:50:19.673:     obs-webrtc.dll
+00:50:19.673:     obs-vst.dll
+00:50:19.673:     obs-transitions.dll
+00:50:19.673:     obs-text.dll
+00:50:19.673:     obs-shaderfilter.dll
+00:50:19.673:     obs-qsv11.dll
+00:50:19.673:     obs-outputs.dll
+00:50:19.673:     obs-filters.dll
+00:50:19.673:     obs-ffmpeg.dll
+00:50:19.673:     obs-browser.dll
+00:50:19.673:     image-source.dll
+00:50:19.673:     frontend-tools.dll
+00:50:19.673:     decklink-output-ui.dll
+00:50:19.673:     decklink-captions.dll
+00:50:19.673:     coreaudio-encoder.dll
+00:50:19.673: ---------------------------------
+00:50:19.673: ---------------------------------
+00:50:19.673: Available Encoders:
+00:50:19.673:   Video Encoders:
+00:50:19.673: 	- ffmpeg_svt_av1 (SVT-AV1)
+00:50:19.673: 	- ffmpeg_aom_av1 (AOM AV1)
+00:50:19.673: 	- jim_nvenc (NVIDIA NVENC H.264)
+00:50:19.673: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+00:50:19.673: 	- obs_qsv11_v2 (QuickSync H.264)
+00:50:19.673: 	- obs_qsv11_hevc (QuickSync HEVC)
+00:50:19.673: 	- obs_x264 (x264)
+00:50:19.673:   Audio Encoders:
+00:50:19.673: 	- ffmpeg_aac (FFmpeg AAC)
+00:50:19.673: 	- ffmpeg_opus (FFmpeg Opus)
+00:50:19.673: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+00:50:19.673: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+00:50:19.673: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+00:50:19.673: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+00:50:19.673: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+00:50:19.673: ==== Startup complete ===============================================
+00:50:19.896: All scene data cleared
+00:50:19.896: ------------------------------------------------
+00:50:19.927: [win-wasapi: 'Desktop Audio'] update settings:
+00:50:19.927: 	device id: default
+00:50:19.927: 	use device timing: 1
+00:50:19.928: [Loaded global audio device]: 'Desktop Audio'
+00:50:19.928: [win-wasapi: 'Mic/Aux'] update settings:
+00:50:19.928: 	device id: {0.0.1.00000000}.{afacea1b-ad3c-4cb4-8bc9-ded7b1ac3a80}
+00:50:19.928: 	use device timing: 0
+00:50:19.929: [Loaded global audio device]: 'Mic/Aux'
+00:50:19.935: [duplicator-monitor-capture: 'Display Capture 7'] update settings:
+00:50:19.935: 	display:  (0x0)
+00:50:19.935: 	cursor: true
+00:50:19.935: 	method: WGC
+00:50:19.935: 	id: 
+00:50:19.935: 	alt_id: 
+00:50:19.935: 	setting_id: DUMMY
+00:50:19.935: 	force SDR: false
+00:50:19.940: [duplicator-monitor-capture: 'Display Capture 6'] update settings:
+00:50:19.940: 	display:  (0x0)
+00:50:19.940: 	cursor: true
+00:50:19.940: 	method: WGC
+00:50:19.940: 	id: 
+00:50:19.940: 	alt_id: 
+00:50:19.940: 	setting_id: DUMMY
+00:50:19.940: 	force SDR: false
+00:50:19.946: [duplicator-monitor-capture: 'Display Capture 5'] update settings:
+00:50:19.946: 	display:  (0x0)
+00:50:19.946: 	cursor: true
+00:50:19.946: 	method: WGC
+00:50:19.946: 	id: 
+00:50:19.946: 	alt_id: 
+00:50:19.946: 	setting_id: DUMMY
+00:50:19.946: 	force SDR: false
+00:50:19.952: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+00:50:19.952: 	display:  (0x0)
+00:50:19.952: 	cursor: true
+00:50:19.952: 	method: WGC
+00:50:19.952: 	id: 
+00:50:19.952: 	alt_id: 
+00:50:19.952: 	setting_id: DUMMY
+00:50:19.952: 	force SDR: false
+00:50:19.958: [duplicator-monitor-capture: 'Display Capture 3'] update settings:
+00:50:19.958: 	display:  (0x0)
+00:50:19.958: 	cursor: true
+00:50:19.958: 	method: WGC
+00:50:19.958: 	id: 
+00:50:19.958: 	alt_id: 
+00:50:19.958: 	setting_id: DUMMY
+00:50:19.958: 	force SDR: false
+00:50:20.029: [duplicator-monitor-capture: 'Display Capture'] update settings:
+00:50:20.029: 	display:  (0x0)
+00:50:20.029: 	cursor: true
+00:50:20.029: 	method: WGC
+00:50:20.029: 	id: 
+00:50:20.029: 	alt_id: 
+00:50:20.029: 	setting_id: DUMMY
+00:50:20.029: 	force SDR: false
+00:50:20.034: [duplicator-monitor-capture: 'Display Capture 2'] update settings:
+00:50:20.034: 	display:  (0x0)
+00:50:20.034: 	cursor: true
+00:50:20.034: 	method: WGC
+00:50:20.034: 	id: 
+00:50:20.034: 	alt_id: 
+00:50:20.034: 	setting_id: DUMMY
+00:50:20.034: 	force SDR: false
+00:50:20.041: WASAPI: Device 'Speakers (7- USB AUDIO  CODEC)' [48000 Hz] initialized (source: Desktop Audio)
+00:50:20.043: Switched to scene 'ShaderFilter'
+00:50:20.043: ------------------------------------------------
+00:50:20.043: Loaded scenes:
+00:50:20.043: - scene 'Full Screen':
+00:50:20.043:     - source: 'Display Capture 2' (monitor_capture)
+00:50:20.043: - scene 'Horizontal Flip':
+00:50:20.043:     - source: 'Display Capture' (monitor_capture)
+00:50:20.043:         - filter: 'Crop/Pad' (crop_filter)
+00:50:20.043:     - source: 'Display Capture 3' (monitor_capture)
+00:50:20.043:         - filter: 'Crop/Pad' (crop_filter)
+00:50:20.043: - scene 'Quad Flip':
+00:50:20.043:     - source: '4 Cornors' (group)
+00:50:20.043:         - source: 'Display Capture 4' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 5' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 6' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 7' (monitor_capture)
+00:50:20.043: - scene 'Quad Kalidiscope':
+00:50:20.043:     - source: '4 Cornors 2' (group)
+00:50:20.043:         - source: 'Display Capture 4' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 5' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 6' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 7' (monitor_capture)
+00:50:20.043: - scene 'Effects':
+00:50:20.043:     - source: '4 Cornors 2 2' (group)
+00:50:20.043:         - source: 'Display Capture 4' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 5' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 6' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 7' (monitor_capture)
+00:50:20.043: - scene 'ShaderFilter':
+00:50:20.043:     - source: '4 Cornors 2 3' (group)
+00:50:20.043:         - source: 'Display Capture 4' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 5' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 6' (monitor_capture)
+00:50:20.043:         - source: 'Display Capture 7' (monitor_capture)
+00:50:20.043: ------------------------------------------------
+00:50:20.096: WASAPI: Device 'Microphone (Realtek Audio)' [48000 Hz] initialized (source: Mic/Aux)
+00:50:20.157: [rtmp-services plugin] Successfully updated file 'services.json' (version 258)
+00:50:20.158: [rtmp-services plugin] Successfully updated package (version 258)
+00:50:41.326: User switched to scene 'Quad Kalidiscope'
+00:50:45.411: User switched to scene 'Quad Flip'
+00:50:46.508: User switched to scene 'Horizontal Flip'
+00:50:49.392: User switched to scene 'Quad Flip'
+00:50:57.629: [duplicator-monitor-capture: 'Display Capture 7'] update settings:
+00:50:57.629: 	display:  (2560x1440)
+00:50:57.629: 	cursor: true
+00:50:57.629: 	method: WGC
+00:50:57.629: 	id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:50:57.629: 	alt_id: \\.\DISPLAY1
+00:50:57.629: 	setting_id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:50:57.629: 	force SDR: false
+00:51:04.248: [duplicator-monitor-capture: 'Display Capture 7'] update settings:
+00:51:04.248: 	display: HP VH27 (1920x1080)
+00:51:04.248: 	cursor: true
+00:51:04.248: 	method: WGC
+00:51:04.248: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:04.248: 	alt_id: \\.\DISPLAY4
+00:51:04.248: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:04.248: 	force SDR: false
+00:51:08.829: [duplicator-monitor-capture: 'Display Capture 6'] update settings:
+00:51:08.829: 	display:  (2560x1440)
+00:51:08.829: 	cursor: true
+00:51:08.829: 	method: WGC
+00:51:08.829: 	id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:08.829: 	alt_id: \\.\DISPLAY1
+00:51:08.829: 	setting_id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:08.829: 	force SDR: false
+00:51:14.800: [duplicator-monitor-capture: 'Display Capture 6'] update settings:
+00:51:14.800: 	display: HP VH27 (1920x1080)
+00:51:14.800: 	cursor: true
+00:51:14.800: 	method: WGC
+00:51:14.800: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:14.800: 	alt_id: \\.\DISPLAY4
+00:51:14.800: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:14.800: 	force SDR: false
+00:51:19.713: [duplicator-monitor-capture: 'Display Capture 5'] update settings:
+00:51:19.713: 	display:  (2560x1440)
+00:51:19.713: 	cursor: true
+00:51:19.713: 	method: WGC
+00:51:19.713: 	id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:19.713: 	alt_id: \\.\DISPLAY1
+00:51:19.713: 	setting_id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:19.713: 	force SDR: false
+00:51:22.815: [duplicator-monitor-capture: 'Display Capture 5'] update settings:
+00:51:22.815: 	display: HP VH27 (1920x1080)
+00:51:22.815: 	cursor: true
+00:51:22.815: 	method: WGC
+00:51:22.815: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:22.815: 	alt_id: \\.\DISPLAY4
+00:51:22.815: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:22.815: 	force SDR: false
+00:51:27.662: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+00:51:27.662: 	display:  (2560x1440)
+00:51:27.662: 	cursor: true
+00:51:27.662: 	method: WGC
+00:51:27.662: 	id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:27.662: 	alt_id: \\.\DISPLAY1
+00:51:27.662: 	setting_id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:27.662: 	force SDR: false
+00:51:31.081: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+00:51:31.081: 	display: HP VH27 (1920x1080)
+00:51:31.081: 	cursor: true
+00:51:31.081: 	method: WGC
+00:51:31.081: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:31.081: 	alt_id: \\.\DISPLAY4
+00:51:31.081: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:51:31.081: 	force SDR: false
+00:51:35.035: User switched to scene 'Quad Kalidiscope'
+00:51:36.556: User switched to scene 'Effects'
+00:51:37.812: User switched to scene 'Quad Kalidiscope'
+00:51:59.596: User added filter 'User-defined shader' (shader_filter) to source '4 Cornors 2'
+00:52:05.427: Pass (0) <> missing pixel shader!
+00:52:05.427: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+00:52:05.427: (None)
+00:52:55.711: User switched to scene 'Quad Flip'
+00:53:00.311: User switched to scene 'Quad Kalidiscope'
+00:59:56.998: User switched to scene 'Horizontal Flip'
+01:00:06.478: [duplicator-monitor-capture: 'Display Capture 3'] update settings:
+01:00:06.478: 	display:  (2560x1440)
+01:00:06.478: 	cursor: true
+01:00:06.478: 	method: WGC
+01:00:06.478: 	id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:00:06.478: 	alt_id: \\.\DISPLAY1
+01:00:06.478: 	setting_id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:00:06.478: 	force SDR: false
+01:00:10.965: [duplicator-monitor-capture: 'Display Capture 3'] update settings:
+01:00:10.965: 	display: HP VH27 (1920x1080)
+01:00:10.965: 	cursor: true
+01:00:10.965: 	method: WGC
+01:00:10.965: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:00:10.965: 	alt_id: \\.\DISPLAY4
+01:00:10.965: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:00:10.965: 	force SDR: false
+01:00:19.962: [duplicator-monitor-capture: 'Display Capture'] update settings:
+01:00:19.962: 	display:  (2560x1440)
+01:00:19.962: 	cursor: true
+01:00:19.962: 	method: WGC
+01:00:19.962: 	id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:00:19.962: 	alt_id: \\.\DISPLAY1
+01:00:19.962: 	setting_id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:00:19.962: 	force SDR: false
+01:00:23.017: [duplicator-monitor-capture: 'Display Capture'] update settings:
+01:00:23.017: 	display: HP VH27 (1920x1080)
+01:00:23.017: 	cursor: true
+01:00:23.017: 	method: WGC
+01:00:23.017: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:00:23.017: 	alt_id: \\.\DISPLAY4
+01:00:23.017: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:00:23.017: 	force SDR: false
+01:01:21.529: User switched to scene 'Quad Kalidiscope'
+01:02:24.938: ==== Shutting down ==================================================
+01:02:24.964: WASAPI: Device 'Speakers (7- USB AUDIO  CODEC)' Terminated
+01:02:24.968: WASAPI: Device 'Microphone (Realtek Audio)' Terminated
+01:02:24.995: All scene data cleared
+01:02:24.995: ------------------------------------------------
+01:02:25.191: [obs-websocket] [obs_module_unload] Shutting down...
+01:02:25.191: Tried to call obs_frontend_remove_event_callback with no callbacks!
+01:02:25.191: [obs-websocket] [obs_module_unload] Finished shutting down.
+01:02:25.266: [Scripting] Total detached callbacks: 0
+01:02:25.266: Freeing OBS context data
+01:02:25.321: == Profiler Results =============================
+01:02:25.321: run_program_init: 8296.44 ms
+01:02:25.321:  ┣OBSApp::AppInit: 193.381 ms
+01:02:25.321:  ┃ ┗OBSApp::InitLocale: 19.64 ms
+01:02:25.321:  ┗OBSApp::OBSInit: 7675.67 ms
+01:02:25.321:    ┣obs_startup: 5.965 ms
+01:02:25.321:    ┗OBSBasic::OBSInit: 7025.45 ms
+01:02:25.321:      ┣OBSBasic::InitBasicConfig: 0.631 ms
+01:02:25.321:      ┣OBSBasic::ResetAudio: 0.278 ms
+01:02:25.321:      ┣OBSBasic::ResetVideo: 2442.53 ms
+01:02:25.321:      ┃ ┗obs_init_graphics: 2439.67 ms
+01:02:25.321:      ┃   ┗shader compilation: 2231.18 ms
+01:02:25.321:      ┣OBSBasic::InitOBSCallbacks: 0.01 ms
+01:02:25.321:      ┣OBSBasic::InitHotkeys: 0.036 ms
+01:02:25.321:      ┣obs_load_all_modules2: 3926.29 ms
+01:02:25.321:      ┃ ┣obs_init_module(aja-output-ui.dll): 0.271 ms
+01:02:25.321:      ┃ ┣obs_init_module(aja.dll): 0.209 ms
+01:02:25.321:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 2.608 ms
+01:02:25.321:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+01:02:25.321:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+01:02:25.321:      ┃ ┣obs_init_module(decklink.dll): 1.232 ms
+01:02:25.321:      ┃ ┣obs_init_module(enc-amf.dll): 47.408 ms
+01:02:25.321:      ┃ ┣obs_init_module(frontend-tools.dll): 6.903 ms
+01:02:25.321:      ┃ ┣obs_init_module(image-source.dll): 0.03 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-browser.dll): 0.983 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 382.045 ms
+01:02:25.321:      ┃ ┃ ┗nvenc_check: 2.043 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-filters.dll): 3.826 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-outputs.dll): 0.053 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-qsv11.dll): 1748.25 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-shaderfilter.dll): 0.032 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-text.dll): 0.296 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-transitions.dll): 0.006 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-vst.dll): 0.015 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-webrtc.dll): 0.048 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-websocket.dll): 14.761 ms
+01:02:25.321:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+01:02:25.321:      ┃ ┣obs_init_module(rtmp-services.dll): 2.031 ms
+01:02:25.321:      ┃ ┣obs_init_module(text-freetype2.dll): 0.098 ms
+01:02:25.321:      ┃ ┣obs_init_module(vlc-video.dll): 2.816 ms
+01:02:25.321:      ┃ ┣obs_init_module(win-capture.dll): 19.507 ms
+01:02:25.321:      ┃ ┣obs_init_module(win-dshow.dll): 3.249 ms
+01:02:25.321:      ┃ ┣obs_init_module(win-wasapi.dll): 65.544 ms
+01:02:25.321:      ┃ ┗reset_win32_symbol_paths: 0.283 ms
+01:02:25.322:      ┣OBSBasic::InitService: 10.654 ms
+01:02:25.322:      ┣OBSBasic::ResetOutputs: 0.443 ms
+01:02:25.322:      ┣OBSBasic::CreateHotkeys: 0.227 ms
+01:02:25.322:      ┣OBSBasic::InitPrimitives: 0.121 ms
+01:02:25.322:      ┗OBSBasic::Load: 389.171 ms
+01:02:25.322: obs_hotkey_thread(25 ms): min=0.003 ms, median=0.007 ms, max=43.714 ms, 99th percentile=0.185 ms, 99.9789% below 25 ms
+01:02:25.322: audio_thread(Audio): min=0.014 ms, median=0.076 ms, max=27.58 ms, 99th percentile=0.453 ms
+01:02:25.322: obs_graphics_thread(16.6667 ms): min=0.048 ms, median=1.328 ms, max=214.685 ms, 99th percentile=2.484 ms, 99.9107% below 16.667 ms
+01:02:25.322:  ┣tick_sources: min=0.001 ms, median=0.016 ms, max=214.286 ms, 99th percentile=0.074 ms
+01:02:25.322:  ┣output_frame: min=0.032 ms, median=0.239 ms, max=44.092 ms, 99th percentile=0.472 ms
+01:02:25.322:  ┃ ┗gs_context(video->graphics): min=0.031 ms, median=0.238 ms, max=44.088 ms, 99th percentile=0.468 ms
+01:02:25.322:  ┃   ┣render_video: min=0.005 ms, median=0.074 ms, max=6.075 ms, 99th percentile=0.163 ms
+01:02:25.322:  ┃   ┃ ┗render_main_texture: min=0.003 ms, median=0.071 ms, max=5.801 ms, 99th percentile=0.157 ms
+01:02:25.322:  ┃   ┗gs_flush: min=0.025 ms, median=0.16 ms, max=43.964 ms, 99th percentile=0.366 ms
+01:02:25.322:  ┗render_displays: min=0 ms, median=0.309 ms, max=42.758 ms, 99th percentile=0.977 ms
+01:02:25.322: =================================================
+01:02:25.322: == Profiler Time Between Calls ==================
+01:02:25.322: obs_hotkey_thread(25 ms): min=24.716 ms, median=25.896 ms, max=103.946 ms, 26.2851% within ±2% of 25 ms (0% lower, 73.7149% higher)
+01:02:25.322: obs_graphics_thread(16.6667 ms): min=1.07 ms, median=16.667 ms, max=214.692 ms, 99.6979% within ±2% of 16.667 ms (0.153339% lower, 0.148762% higher)
+01:02:25.322: =================================================
+01:02:25.552: Number of memory leaks: 2

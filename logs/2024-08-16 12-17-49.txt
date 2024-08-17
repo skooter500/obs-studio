@@ -1,0 +1,681 @@
+12:17:49.242: CPU Name: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+12:17:49.242: CPU Speed: 2808MHz
+12:17:49.242: Physical Cores: 4, Logical Cores: 8
+12:17:49.242: Physical Memory: 16253MB Total, 6164MB Free
+12:17:49.242: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 4651; 64-bit)
+12:17:49.242: Running as administrator: true
+12:17:49.242: Windows 10/11 Gaming Features:
+12:17:49.242: 	Game DVR: On
+12:17:49.242: 	Game Mode: Probably On (no reg key set)
+12:17:49.245: Sec. Software Status:
+12:17:49.247: 	Microsoft Defender Antivirus: enabled (AV)
+12:17:49.248: 	Windows Firewall: enabled (FW)
+12:17:49.249: Current Date/Time: 2024-08-16, 12:17:49
+12:17:49.249: Browser Hardware Acceleration: true
+12:17:49.249: Hide OBS windows from screen capture: false
+12:17:49.249: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+12:17:49.249: Portable mode: false
+12:17:49.748: OBS 30.2.3 (64-bit, windows)
+12:17:49.748: ---------------------------------
+12:17:49.851: ---------------------------------
+12:17:49.851: audio settings reset:
+12:17:49.851: 	samples per sec: 48000
+12:17:49.851: 	speakers:        2
+12:17:49.851: 	max buffering:   960 milliseconds
+12:17:49.851: 	buffering type:  dynamically increasing
+12:17:49.856: ---------------------------------
+12:17:49.856: Initializing D3D11...
+12:17:49.856: Available Video Adapters: 
+12:17:49.864: 	Adapter 0: NVIDIA GeForce GTX 1060
+12:17:49.864: 	  Dedicated VRAM: 6321864704 (5.9 GiB)
+12:17:49.864: 	  Shared VRAM:    8521365504 (7.9 GiB)
+12:17:49.864: 	  PCI ID:         10de:1c20
+12:17:49.864: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+12:17:49.864: 	  Driver Version: 32.0.15.5585
+12:17:49.866: 	  output 0:
+12:17:49.866: 	    name=
+12:17:49.866: 	    pos={0, 0}
+12:17:49.866: 	    size={2560, 1440}
+12:17:49.866: 	    attached=true
+12:17:49.866: 	    refresh=60
+12:17:49.866: 	    bits_per_color=8
+12:17:49.866: 	    space=RGB_FULL_G22_NONE_P709
+12:17:49.866: 	    primaries=[r=(0.684570, 0.312500), g=(0.243164, 0.707031), b=(0.138672, 0.054688), wp=(0.312500, 0.329102)]
+12:17:49.866: 	    relative_gamut_area=[709=1.468871, P3=1.082809, 2020=0.776843]
+12:17:49.866: 	    sdr_white_nits=80
+12:17:49.866: 	    nit_range=[min=50.000000, max=300.000000, max_full_frame=300.000000]
+12:17:49.866: 	    dpi=96 (100%)
+12:17:49.866: 	    id=\\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:49.866: 	    alt_id=\\.\DISPLAY1
+12:17:49.868: 	  output 1:
+12:17:49.868: 	    name=HP VH27
+12:17:49.868: 	    pos={-1920, 494}
+12:17:49.868: 	    size={1920, 1080}
+12:17:49.868: 	    attached=true
+12:17:49.868: 	    refresh=60
+12:17:49.868: 	    bits_per_color=8
+12:17:49.868: 	    space=RGB_FULL_G22_NONE_P709
+12:17:49.868: 	    primaries=[r=(0.657227, 0.335938), g=(0.318359, 0.605469), b=(0.148438, 0.061523), wp=(0.313477, 0.329102)]
+12:17:49.868: 	    relative_gamut_area=[709=1.026883, P3=0.756988, 2020=0.543088]
+12:17:49.868: 	    sdr_white_nits=80
+12:17:49.868: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+12:17:49.868: 	    dpi=96 (100%)
+12:17:49.868: 	    id=\\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:49.868: 	    alt_id=\\.\DISPLAY4
+12:17:49.869: 	  output 2:
+12:17:49.869: 	    name=EPSON PJ
+12:17:49.869: 	    pos={2560, 346}
+12:17:49.869: 	    size={1920, 1080}
+12:17:49.869: 	    attached=true
+12:17:49.869: 	    refresh=60
+12:17:49.869: 	    bits_per_color=8
+12:17:49.869: 	    space=RGB_FULL_G22_NONE_P709
+12:17:49.869: 	    primaries=[r=(0.639648, 0.329102), g=(0.299805, 0.599609), b=(0.149414, 0.059570), wp=(0.312500, 0.328125)]
+12:17:49.869: 	    relative_gamut_area=[709=1.000494, P3=0.737535, 2020=0.529132]
+12:17:49.869: 	    sdr_white_nits=80
+12:17:49.869: 	    nit_range=[min=0.010000, max=1499.000000, max_full_frame=799.000000]
+12:17:49.869: 	    dpi=96 (100%)
+12:17:49.869: 	    id=\\?\DISPLAY#SECA826#5&468c2f0&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:49.869: 	    alt_id=\\.\DISPLAY5
+12:17:49.870: 	Adapter 1: Intel(R) HD Graphics 630
+12:17:49.870: 	  Dedicated VRAM: 134217728 (0.1 GiB)
+12:17:49.870: 	  Shared VRAM:    8521365504 (7.9 GiB)
+12:17:49.870: 	  PCI ID:         8086:591b
+12:17:49.870: 	  HAGS Status:    Disabled (Default: No, Driver status: Unsupported)
+12:17:49.870: 	  Driver Version: 27.20.100.9664
+12:17:49.870: 	Adapter 2: Intel(R) HD Graphics 630
+12:17:49.870: 	  Dedicated VRAM: 134217728 (0.1 GiB)
+12:17:49.870: 	  Shared VRAM:    8521365504 (7.9 GiB)
+12:17:49.870: 	  PCI ID:         8086:591b
+12:17:49.870: 	  HAGS Status:    Disabled (Default: No, Driver status: Unsupported)
+12:17:49.870: 	  Driver Version: 27.20.100.9664
+12:17:49.875: Loading up D3D11 on adapter NVIDIA GeForce GTX 1060 (0)
+12:17:50.011: D3D11 loaded successfully, feature level used: b000
+12:17:50.011: DXGI increase maximum frame latency success
+12:17:50.011: D3D11 GPU priority setup success
+12:17:52.620: ---------------------------------
+12:17:52.621: video settings reset:
+12:17:52.621: 	base resolution:   1920x1080
+12:17:52.621: 	output resolution: 1920x1080
+12:17:52.621: 	downscale filter:  Bicubic
+12:17:52.621: 	fps:               60/1
+12:17:52.621: 	format:            NV12
+12:17:52.621: 	YUV mode:          Rec. 709/Partial
+12:17:52.621: NV12 texture support enabled
+12:17:52.621: P010 texture support not available
+12:17:52.627: Audio monitoring device:
+12:17:52.627: 	name: Default
+12:17:52.627: 	id: default
+12:17:52.627: ---------------------------------
+12:17:52.687: No AJA devices found, skipping loading AJA UI plugin
+12:17:52.687: Failed to initialize module 'aja-output-ui.dll'
+12:17:52.712: No AJA devices found, skipping loading AJA plugin
+12:17:52.712: Failed to initialize module 'aja.dll'
+12:17:52.712: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+12:17:52.729: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+12:17:52.732: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+12:17:52.740: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+12:17:52.745: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:17:52.745: Failed to initialize module 'decklink.dll'
+12:17:52.810: [AMF] Unable to load 'amfrt64.dll', error code 126.
+12:17:52.812: [AMF] AMF Test failed due to one or more errors.
+12:17:52.812: Failed to initialize module 'enc-amf.dll'
+12:17:52.834: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+12:17:52.834: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+12:17:52.834: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+12:17:52.865: [obs-browser]: Version 2.23.6
+12:17:52.865: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2594+gc69ad37+chromium-103.0.5060.134 (compiled)
+12:17:52.876: NVENC supported
+12:17:53.434: [NVENC] AV1 is not supported
+12:17:53.438: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+12:17:53.439: Failed to get NVVideoEffects.dll version info size
+12:17:53.441: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+12:17:55.015: [obs-shaderfilter] loaded version 2.3.2
+12:17:55.255: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+12:17:55.255: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+12:17:55.255: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+12:17:55.275: [obs-websocket] [obs_module_load] Module loaded.
+12:17:55.433: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+12:17:55.648: ---------------------------------
+12:17:55.648:   Loaded Modules:
+12:17:55.648:     win-wasapi.dll
+12:17:55.648:     win-dshow.dll
+12:17:55.648:     win-capture.dll
+12:17:55.648:     vlc-video.dll
+12:17:55.648:     text-freetype2.dll
+12:17:55.648:     rtmp-services.dll
+12:17:55.648:     obs-x264.dll
+12:17:55.648:     obs-websocket.dll
+12:17:55.648:     obs-webrtc.dll
+12:17:55.648:     obs-vst.dll
+12:17:55.648:     obs-transitions.dll
+12:17:55.648:     obs-text.dll
+12:17:55.648:     obs-shaderfilter.dll
+12:17:55.648:     obs-qsv11.dll
+12:17:55.648:     obs-outputs.dll
+12:17:55.648:     obs-filters.dll
+12:17:55.648:     obs-ffmpeg.dll
+12:17:55.648:     obs-browser.dll
+12:17:55.649:     image-source.dll
+12:17:55.649:     frontend-tools.dll
+12:17:55.649:     decklink-output-ui.dll
+12:17:55.649:     decklink-captions.dll
+12:17:55.649:     coreaudio-encoder.dll
+12:17:55.649: ---------------------------------
+12:17:55.649: ---------------------------------
+12:17:55.649: Available Encoders:
+12:17:55.649:   Video Encoders:
+12:17:55.649: 	- ffmpeg_svt_av1 (SVT-AV1)
+12:17:55.649: 	- ffmpeg_aom_av1 (AOM AV1)
+12:17:55.649: 	- jim_nvenc (NVIDIA NVENC H.264)
+12:17:55.649: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+12:17:55.649: 	- obs_qsv11_v2 (QuickSync H.264)
+12:17:55.649: 	- obs_qsv11_hevc (QuickSync HEVC)
+12:17:55.649: 	- obs_x264 (x264)
+12:17:55.649:   Audio Encoders:
+12:17:55.649: 	- ffmpeg_aac (FFmpeg AAC)
+12:17:55.649: 	- ffmpeg_opus (FFmpeg Opus)
+12:17:55.649: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+12:17:55.649: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+12:17:55.649: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+12:17:55.649: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+12:17:55.649: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+12:17:55.649: ==== Startup complete ===============================================
+12:17:55.932: All scene data cleared
+12:17:55.932: ------------------------------------------------
+12:17:55.964: [win-wasapi: 'Desktop Audio'] update settings:
+12:17:55.964: 	device id: default
+12:17:55.964: 	use device timing: 1
+12:17:55.964: [Loaded global audio device]: 'Desktop Audio'
+12:17:55.964: [win-wasapi: 'Mic/Aux'] update settings:
+12:17:55.964: 	device id: {0.0.1.00000000}.{afacea1b-ad3c-4cb4-8bc9-ded7b1ac3a80}
+12:17:55.964: 	use device timing: 0
+12:17:55.965: [Loaded global audio device]: 'Mic/Aux'
+12:17:55.972: [duplicator-monitor-capture: 'Display Capture 7'] update settings:
+12:17:55.972: 	display: HP VH27 (1920x1080)
+12:17:55.972: 	cursor: true
+12:17:55.972: 	method: WGC
+12:17:55.972: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.972: 	alt_id: \\.\DISPLAY4
+12:17:55.972: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.972: 	force SDR: false
+12:17:55.978: [duplicator-monitor-capture: 'Display Capture 6'] update settings:
+12:17:55.978: 	display: HP VH27 (1920x1080)
+12:17:55.978: 	cursor: true
+12:17:55.978: 	method: WGC
+12:17:55.978: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.978: 	alt_id: \\.\DISPLAY4
+12:17:55.978: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.978: 	force SDR: false
+12:17:55.983: [duplicator-monitor-capture: 'Display Capture 5'] update settings:
+12:17:55.983: 	display: HP VH27 (1920x1080)
+12:17:55.983: 	cursor: true
+12:17:55.983: 	method: WGC
+12:17:55.983: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.983: 	alt_id: \\.\DISPLAY4
+12:17:55.983: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.983: 	force SDR: false
+12:17:55.987: [duplicator-monitor-capture: 'Display Capture 4'] update settings:
+12:17:55.987: 	display: HP VH27 (1920x1080)
+12:17:55.987: 	cursor: true
+12:17:55.987: 	method: WGC
+12:17:55.987: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.987: 	alt_id: \\.\DISPLAY4
+12:17:55.987: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.987: 	force SDR: false
+12:17:55.993: [duplicator-monitor-capture: 'Display Capture 3'] update settings:
+12:17:55.993: 	display: HP VH27 (1920x1080)
+12:17:55.993: 	cursor: true
+12:17:55.993: 	method: WGC
+12:17:55.993: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.993: 	alt_id: \\.\DISPLAY4
+12:17:55.993: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:55.993: 	force SDR: false
+12:17:56.023: WASAPI: Device 'Speakers (7- USB AUDIO  CODEC)' [48000 Hz] initialized (source: Desktop Audio)
+12:17:56.060: [duplicator-monitor-capture: 'Display Capture'] update settings:
+12:17:56.060: 	display: HP VH27 (1920x1080)
+12:17:56.060: 	cursor: true
+12:17:56.060: 	method: WGC
+12:17:56.060: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:56.060: 	alt_id: \\.\DISPLAY4
+12:17:56.060: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+12:17:56.060: 	force SDR: false
+12:17:56.066: [duplicator-monitor-capture: 'Display Capture 2'] update settings:
+12:17:56.066: 	display:  (0x0)
+12:17:56.066: 	cursor: true
+12:17:56.066: 	method: WGC
+12:17:56.066: 	id: 
+12:17:56.066: 	alt_id: 
+12:17:56.066: 	setting_id: DUMMY
+12:17:56.066: 	force SDR: false
+12:17:56.114: WASAPI: Device 'Microphone (Realtek Audio)' [48000 Hz] initialized (source: Mic/Aux)
+12:17:56.135: Switched to scene 'Quad Kalidiscope'
+12:17:56.135: ------------------------------------------------
+12:17:56.135: Loaded scenes:
+12:17:56.135: - scene 'Full Screen':
+12:17:56.135:     - source: 'Display Capture 2' (monitor_capture)
+12:17:56.135: - scene 'Horizontal Flip':
+12:17:56.135:     - source: 'Display Capture' (monitor_capture)
+12:17:56.135:         - filter: 'Crop/Pad' (crop_filter)
+12:17:56.135:     - source: 'Display Capture 3' (monitor_capture)
+12:17:56.135:         - filter: 'Crop/Pad' (crop_filter)
+12:17:56.135: - scene 'Quad Flip':
+12:17:56.135:     - source: '4 Cornors' (group)
+12:17:56.135:         - source: 'Display Capture 4' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 5' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 6' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 7' (monitor_capture)
+12:17:56.135: - scene 'Quad Kalidiscope':
+12:17:56.135:     - source: '4 Cornors 2' (group)
+12:17:56.135:         - filter: 'User-defined shader' (shader_filter)
+12:17:56.135:         - source: 'Display Capture 4' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 5' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 6' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 7' (monitor_capture)
+12:17:56.135: - scene 'Effects':
+12:17:56.135:     - source: '4 Cornors 2 2' (group)
+12:17:56.135:         - source: 'Display Capture 4' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 5' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 6' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 7' (monitor_capture)
+12:17:56.135: - scene 'ShaderFilter':
+12:17:56.135:     - source: '4 Cornors 2 3' (group)
+12:17:56.135:         - source: 'Display Capture 4' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 5' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 6' (monitor_capture)
+12:17:56.135:         - source: 'Display Capture 7' (monitor_capture)
+12:17:56.135: ------------------------------------------------
+12:18:45.845: User switched to scene 'Effects'
+12:18:48.398: User switched to scene 'Quad Flip'
+12:18:52.246: User switched to scene 'ShaderFilter'
+12:18:55.620: User switched to scene 'Horizontal Flip'
+12:31:56.445: Max audio buffering reached!
+12:31:56.445: adding 960 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: Desktop Audio)
+12:31:56.445: 
+12:31:56.466: Source Desktop Audio audio is lagging (over by 620261.74 ms) at max audio buffering. Restarting source audio.
+13:32:08.776: Source Desktop Audio audio is lagging (over by 183416.13 ms) at max audio buffering. Restarting source audio.
+13:33:30.332: User switched to scene 'Quad Kalidiscope'
+13:33:37.827: User switched to scene 'ShaderFilter'
+13:33:41.447: User switched to scene 'Quad Kalidiscope'
+13:33:48.344: User switched to scene 'Effects'
+13:33:50.751: User switched to scene 'ShaderFilter'
+15:48:04.644: User switched to scene 'Horizontal Flip'
+15:48:30.394: User switched to scene 'Quad Flip'
+15:48:31.548: User switched to scene 'Quad Kalidiscope'
+15:48:49.943: User switched to scene 'Quad Flip'
+15:48:52.274: User switched to scene 'Horizontal Flip'
+16:04:55.318: Source 'Horizontal Flip' renamed to 'Horizontal Reflect'
+16:05:03.252: User switched to scene 'Quad Flip'
+16:05:08.909: User switched to scene 'Horizontal Reflect'
+16:05:11.834: User switched to scene 'Quad Flip'
+16:05:29.265: [Media Source 'Stinger (Stinger)']: settings:
+16:05:29.265: 	input:                   
+16:05:29.265: 	input_format:            (null)
+16:05:29.265: 	speed:                   100
+16:05:29.265: 	is_looping:              no
+16:05:29.265: 	is_linear_alpha:         no
+16:05:29.265: 	is_hw_decoding:          yes
+16:05:29.265: 	is_clear_on_media_end:   yes
+16:05:29.265: 	restart_on_activate:     yes
+16:05:29.265: 	close_when_inactive:     no
+16:05:29.265: 	full_decode:             no
+16:05:29.265: 	ffmpeg_options:          
+16:05:29.291: [Media Source 'clone (Stinger)']: settings:
+16:05:29.291: 	input:                   
+16:05:29.291: 	input_format:            (null)
+16:05:29.291: 	speed:                   100
+16:05:29.291: 	is_looping:              no
+16:05:29.291: 	is_linear_alpha:         no
+16:05:29.291: 	is_hw_decoding:          yes
+16:05:29.291: 	is_clear_on_media_end:   yes
+16:05:29.291: 	restart_on_activate:     yes
+16:05:29.291: 	close_when_inactive:     no
+16:05:29.291: 	full_decode:             no
+16:05:29.291: 	ffmpeg_options:          
+16:05:49.943: User switched to scene 'Quad Kalidiscope'
+16:05:53.874: User switched to scene 'Quad Flip'
+16:05:57.098: User switched to scene 'Quad Kalidiscope'
+16:08:46.738: User switched to scene 'Quad Flip'
+16:08:48.869: User switched to scene 'Horizontal Reflect'
+16:09:01.367: User switched to scene 'Quad Flip'
+16:09:02.935: User switched to scene 'Quad Kalidiscope'
+16:09:07.514: User switched to scene 'Effects'
+16:10:42.211: User switched to scene 'Quad Kalidiscope'
+16:11:01.900: User switched to scene 'Horizontal Reflect'
+16:11:10.022: User switched to scene 'Quad Flip'
+16:11:14.003: User switched to scene 'Quad Kalidiscope'
+16:11:25.968: User added scene 'Quad Kalidiscope 2'
+16:11:25.968: User added source '4 Cornors 2' (group) to scene 'Quad Kalidiscope 2'
+16:11:26.004: Switched to scene 'Quad Kalidiscope 2'
+16:11:27.709: User switched to scene 'Quad Kalidiscope'
+16:11:28.839: User switched to scene 'Quad Kalidiscope 2'
+16:13:13.146: User switched to scene 'Quad Kalidiscope'
+16:13:30.715: User switched to scene 'Quad Kalidiscope 2'
+16:13:31.461: User switched to scene 'Quad Kalidiscope'
+16:13:48.630: User removed filter 'User-defined shader' (shader_filter) from source '4 Cornors 2'
+16:13:52.705: User switched to scene 'Quad Kalidiscope 2'
+16:13:54.447: User switched to scene 'Quad Kalidiscope'
+16:13:55.576: User switched to scene 'Quad Kalidiscope 2'
+16:13:57.024: User switched to scene 'Quad Kalidiscope'
+16:14:01.600: User switched to scene 'Quad Kalidiscope 2'
+16:14:06.779: User switched to scene 'Effects'
+16:14:06.828: User Removed scene 'Quad Kalidiscope 2'
+16:14:07.795: User switched to scene 'Quad Kalidiscope'
+16:14:21.913: User added scene 'Quad Kalidiscope 2'
+16:14:21.913: User added source '4 Cornors 2' (group) to scene 'Quad Kalidiscope 2'
+16:14:21.963: Switched to scene 'Quad Kalidiscope 2'
+16:14:26.596: User switched to scene 'Quad Kalidiscope'
+16:14:28.339: User switched to scene 'Quad Kalidiscope 2'
+16:14:50.852: User added filter 'Sharpen' (sharpness_filter_v2) to source 'Quad Kalidiscope 2'
+16:15:07.364: User switched to scene 'Quad Flip'
+16:15:10.717: User switched to scene 'Horizontal Reflect'
+16:15:13.671: User switched to scene 'Quad Kalidiscope 2'
+16:15:15.889: User switched to scene 'Quad Kalidiscope'
+16:15:18.954: User switched to scene 'Quad Kalidiscope 2'
+16:15:21.306: User switched to scene 'Quad Kalidiscope'
+16:15:23.586: User switched to scene 'Quad Kalidiscope 2'
+16:15:34.197: User removed filter 'Sharpen' (sharpness_filter_v2) from source 'Quad Kalidiscope 2'
+16:15:45.828: User added filter 'User-defined shader' (shader_filter) to source 'Quad Kalidiscope 2'
+16:15:52.717: Pass (0) <> missing pixel shader!
+16:15:52.717: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+16:15:52.717: (None)
+16:16:52.180: Source 'Quad Kalidiscope 2' renamed to 'Kalid Chromatic'
+16:17:03.229: User added scene 'Kalid Edge'
+16:17:03.232: User added source '4 Cornors 2' (group) to scene 'Kalid Edge'
+16:17:03.274: Switched to scene 'Kalid Edge'
+16:17:13.544: User removed filter 'User-defined shader' (shader_filter) from source 'Kalid Edge'
+16:17:18.877: User added filter 'User-defined shader' (shader_filter) to source 'Kalid Edge'
+16:17:23.697: Pass (0) <> missing pixel shader!
+16:17:23.697: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+16:17:23.697: (None)
+16:31:32.763: User switched to scene 'Kalid Chromatic'
+16:31:38.453: User switched to scene 'Quad Kalidiscope'
+16:31:41.810: User switched to scene 'Kalid Chromatic'
+16:31:43.307: User switched to scene 'Kalid Edge'
+16:31:55.814: User added scene 'Kalid Edge 2'
+16:31:55.860: User added source '4 Cornors 2' (group) to scene 'Kalid Edge 2'
+16:31:55.899: Switched to scene 'Kalid Edge 2'
+16:32:30.864: User switched to scene 'Kalid Edge'
+16:32:33.531: User switched to scene 'Horizontal Reflect'
+16:32:56.009: User switched to scene 'Kalid Edge 2'
+16:32:56.969: User switched to scene 'Kalid Edge'
+16:33:20.200: User added filter 'User-defined shader 2' (shader_filter) to source 'Kalid Edge'
+16:33:28.613: Pass (0) <> missing pixel shader!
+16:33:28.613: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+16:33:28.613: (None)
+16:33:45.366: User switched to scene 'Kalid Chromatic'
+16:33:47.373: User switched to scene 'Kalid Edge 2'
+16:33:49.416: User switched to scene 'Kalid Edge'
+16:33:51.332: User switched to scene 'Kalid Edge 2'
+16:33:53.408: User switched to scene 'Kalid Edge'
+16:33:55.634: User switched to scene 'Kalid Edge 2'
+16:33:57.140: User switched to scene 'Effects'
+16:33:58.739: User switched to scene 'Kalid Edge 2'
+16:34:08.716: User switched to scene 'Kalid Edge'
+16:34:10.971: User switched to scene 'Kalid Edge 2'
+16:34:13.253: User switched to scene 'Kalid Edge'
+16:35:35.513: User switched to scene 'Kalid Edge 2'
+16:35:38.003: User switched to scene 'Kalid Edge'
+16:35:42.117: User switched to scene 'Kalid Edge 2'
+16:36:34.873: User added filter 'User-defined shader 2' (shader_filter) to source 'Kalid Edge 2'
+16:36:39.880: Pass (0) <> missing pixel shader!
+16:36:39.880: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+16:36:39.880: (None)
+16:38:03.423: User switched to scene 'Kalid Edge'
+16:38:18.128: User switched to scene 'Kalid Edge 2'
+16:38:38.349: Source 'Kalid Edge 2' renamed to 'Kalid Edge Bloom'
+16:38:45.627: User added scene 'Kalid Edge Bloom 2'
+16:38:45.645: User added source '4 Cornors 2' (group) to scene 'Kalid Edge Bloom 2'
+16:38:45.826: Switched to scene 'Kalid Edge Bloom 2'
+16:40:04.027: device_vertexshader_create (D3D11): Compile warnings/errors for  (Vertex shader, technique Draw, pass 0):
+16:40:04.027: C:\Program Files\obs-studio\bin\64bit\ (Vertex shader, technique Draw, pass 0)(62,17-53): error X4000: variable 'current_pos' used without having been completely initialized
+16:40:04.027: 
+16:40:04.027: Pass (0) <> missing vertex shader!
+16:40:04.032: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+16:40:04.032: (null) (91, 1): Error creating shader: C:\Program Files\obs-studio\bin\64bit\ (Vertex shader, technique Draw, pass 0)(62,17-53): error X4000: variable 'current_pos' used without having been completely initialized
+16:40:04.032: 
+16:40:04.032: 
+16:45:32.500: User removed filter 'User-defined shader' (shader_filter) from source 'Kalid Edge Bloom 2'
+16:46:04.297: Switched to scene 'Kalid Edge Bloom 2'
+16:46:28.709: User switched to scene 'Full Screen'
+16:46:36.824: User switched to scene 'Horizontal Reflect'
+16:46:38.507: User switched to scene 'Full Screen'
+16:46:45.589: User switched to scene 'Horizontal Reflect'
+16:46:46.044: User Removed scene 'Full Screen'
+16:46:54.572: User switched to scene 'Quad Flip'
+16:46:58.527: User switched to scene 'Horizontal Reflect'
+16:47:50.948: User switched to scene 'Quad Flip'
+16:47:54.628: User switched to scene 'Quad Kalidiscope'
+16:48:02.912: User switched to scene 'Kalid Chromatic'
+16:48:06.566: User switched to scene 'Kalid Edge'
+16:48:14.769: User switched to scene 'Kalid Edge Bloom'
+16:48:18.026: User switched to scene 'Kalid Edge Bloom 2'
+16:48:46.803: User switched to scene 'Kalid Edge Bloom'
+16:48:54.406: User switched to scene 'Quad Kalidiscope'
+16:49:02.488: User switched to scene 'Quad Flip'
+16:49:05.032: User switched to scene 'Horizontal Reflect'
+16:49:14.729: User switched to scene 'Quad Kalidiscope'
+16:50:16.730: User switched to scene 'Kalid Chromatic'
+16:50:19.611: User switched to scene 'Kalid Edge Bloom'
+16:50:27.079: User switched to scene 'Kalid Edge Bloom 2'
+16:50:31.151: User switched to scene 'Kalid Edge Bloom'
+16:51:01.002: User added scene 'Kalid Edge Bloom 3'
+16:51:01.045: User added source '4 Cornors 2' (group) to scene 'Kalid Edge Bloom 3'
+16:51:01.083: Switched to scene 'Kalid Edge Bloom 3'
+16:51:20.999: User added filter 'User-defined shader' (shader_filter) to source 'Display Capture 7'
+16:51:30.347: Pass (0) <> missing pixel shader!
+16:51:30.347: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+16:51:30.347: (None)
+16:52:59.011: User removed filter 'User-defined shader' (shader_filter) from source 'Display Capture 7'
+16:55:39.152: User switched to scene 'Horizontal Reflect'
+16:55:45.750: User added scene 'Horizontal Reflect 2'
+16:55:45.750: User added source 'Display Capture' (monitor_capture) to scene 'Horizontal Reflect 2'
+16:55:45.750: User added source 'Display Capture 3' (monitor_capture) to scene 'Horizontal Reflect 2'
+16:55:45.781: Switched to scene 'Horizontal Reflect 2'
+16:56:02.442: User added filter 'Edge' (shader_filter) to source 'Horizontal Reflect 2'
+16:56:04.297: Pass (0) <> missing pixel shader!
+16:56:04.297: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+16:56:04.297: (None)
+16:58:40.528: User switched to scene 'Horizontal Reflect'
+16:58:42.534: User switched to scene 'Horizontal Reflect 2'
+17:00:43.508: User switched to scene 'Horizontal Reflect'
+17:00:45.863: User switched to scene 'Horizontal Reflect 2'
+17:01:00.777: Source 'Horizontal Reflect 2' renamed to 'Horizontal Glitch Reflect'
+17:02:24.607: User switched to scene 'Horizontal Reflect'
+17:03:14.620: User switched to scene 'Horizontal Glitch Reflect'
+17:03:26.303: User switched to scene 'Quad Flip'
+17:03:30.640: User switched to scene 'Quad Kalidiscope'
+17:03:34.430: User switched to scene 'Kalid Chromatic'
+17:03:37.383: User switched to scene 'Kalid Edge Bloom 2'
+17:03:39.831: User switched to scene 'Kalid Edge Bloom 3'
+17:03:42.615: User switched to scene 'Kalid Edge Bloom'
+17:03:46.705: User switched to scene 'Horizontal Glitch Reflect'
+17:03:52.560: User added scene 'Horizontal Glitch Reflect 2'
+17:03:52.562: User added source 'Display Capture' (monitor_capture) to scene 'Horizontal Glitch Reflect 2'
+17:03:52.562: User added source 'Display Capture 3' (monitor_capture) to scene 'Horizontal Glitch Reflect 2'
+17:03:52.581: Switched to scene 'Horizontal Glitch Reflect 2'
+17:04:08.988: User added filter 'User-defined shader' (shader_filter) to source 'Horizontal Glitch Reflect 2'
+17:06:35.542: User renamed filter 'Edge' on source 'Horizontal Glitch Reflect 2' to 'Glitch'
+17:06:41.099: User renamed filter 'User-defined shader' on source 'Horizontal Glitch Reflect 2' to 'User-defined shaderEdge'
+17:06:50.580: Pass (0) <> missing pixel shader!
+17:06:50.580: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+17:06:50.580: (None)
+17:13:37.142: User switched to scene 'Horizontal Reflect'
+17:13:43.628: User switched to scene 'Kalid Chromatic'
+17:13:50.161: User switched to scene 'Kalid Edge'
+17:13:59.123: User switched to scene 'Kalid Edge Bloom'
+17:14:06.349: User switched to scene 'Kalid Edge Bloom 3'
+17:14:08.785: User switched to scene 'Kalid Edge Bloom'
+17:14:10.023: User switched to scene 'Kalid Edge Bloom 2'
+17:15:12.228: User switched to scene 'Kalid Edge Bloom 3'
+17:15:19.524: User switched to scene 'Kalid Edge Bloom'
+17:15:23.315: User switched to scene 'Kalid Edge Bloom 3'
+17:15:26.096: User switched to scene 'Kalid Edge'
+17:15:37.467: User switched to scene 'Horizontal Glitch Reflect 2'
+17:15:54.007: User switched to scene 'Kalid Edge Bloom 3'
+17:18:02.167: Source 'Kalid Edge Bloom 3' renamed to 'Kalid Edge Distortion'
+17:18:08.319: User added scene 'Kalid Edge Distortion 2'
+17:18:08.331: User added source '4 Cornors 2' (group) to scene 'Kalid Edge Distortion 2'
+17:18:08.410: Switched to scene 'Kalid Edge Distortion 2'
+17:18:10.925: User switched to scene 'Effects'
+17:18:17.878: User switched to scene 'ShaderFilter'
+17:18:17.956: User Removed scene 'Effects'
+17:18:27.056: User switched to scene 'Kalid Edge Bloom 2'
+17:18:27.146: User Removed scene 'ShaderFilter'
+17:18:31.882: User switched to scene 'Kalid Edge Distortion 2'
+17:18:44.624: User removed filter 'User-defined shader' (shader_filter) from source 'Kalid Edge Distortion 2'
+17:18:48.224: User removed filter 'User-defined shader 2' (shader_filter) from source 'Kalid Edge Distortion 2'
+17:18:57.708: User added filter 'User-defined shader' (shader_filter) to source 'Kalid Edge Distortion 2'
+17:18:59.647: Pass (0) <> missing pixel shader!
+17:18:59.647: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+17:18:59.647: (None)
+17:21:51.674: Source 'Kalid Edge Distortion 2' renamed to 'VCR'
+17:21:55.574: User switched to scene 'Kalid Edge Bloom 2'
+17:23:50.278: User added scene 'Kalid Edge Bloom 2 2'
+17:23:50.342: User added source '4 Cornors 2' (group) to scene 'Kalid Edge Bloom 2 2'
+17:23:50.391: Switched to scene 'Kalid Edge Bloom 2 2'
+17:23:51.408: User switched to scene 'Kalid Edge Bloom 2'
+17:23:56.085: Source 'Kalid Edge Bloom 2' renamed to 'Burn'
+17:26:21.687: User switched to scene 'Kalid Edge Bloom 2 2'
+17:26:23.681: User switched to scene 'Kalid Edge'
+17:26:29.357: User switched to scene 'Horizontal Glitch Reflect'
+17:26:32.729: User switched to scene 'Horizontal Glitch Reflect 2'
+17:26:37.268: User switched to scene 'Quad Flip'
+17:26:39.314: User switched to scene 'Quad Kalidiscope'
+17:26:48.599: User switched to scene 'Kalid Edge'
+17:26:51.355: User switched to scene 'Kalid Edge Bloom'
+17:26:54.057: User switched to scene 'Kalid Edge Distortion'
+17:27:00.039: User switched to scene 'Kalid Edge Bloom 2 2'
+17:27:03.687: User switched to scene 'Burn'
+17:27:07.731: User switched to scene 'Horizontal Glitch Reflect'
+17:27:28.954: User switched to scene 'Kalid Edge Bloom 2 2'
+17:27:34.840: User switched to scene 'VCR'
+17:28:28.449: User switched to scene 'Kalid Edge Bloom 2 2'
+17:29:04.478: User switched to scene 'Horizontal Glitch Reflect'
+17:29:14.737: User added scene 'Horizontal Glitch Reflect 3'
+17:29:14.739: User added source 'Display Capture' (monitor_capture) to scene 'Horizontal Glitch Reflect 3'
+17:29:14.739: User added source 'Display Capture 3' (monitor_capture) to scene 'Horizontal Glitch Reflect 3'
+17:29:14.754: Switched to scene 'Horizontal Glitch Reflect 3'
+17:29:20.003: User switched to scene 'Kalid Edge Bloom'
+17:29:22.713: User switched to scene 'Kalid Edge Distortion'
+17:29:27.213: User switched to scene 'Horizontal Glitch Reflect 2'
+17:29:43.584: User switched to scene 'Kalid Edge Bloom 2 2'
+17:29:55.493: User switched to scene 'Horizontal Glitch Reflect 2'
+17:29:59.675: User switched to scene 'Horizontal Glitch Reflect 3'
+17:30:06.711: User switched to scene 'Kalid Edge Bloom'
+17:30:27.383: User switched to scene 'Horizontal Glitch Reflect 3'
+17:30:31.306: User switched to scene 'Horizontal Glitch Reflect'
+17:30:34.481: User switched to scene 'Horizontal Reflect'
+17:30:43.766: User switched to scene 'Horizontal Glitch Reflect'
+17:30:47.582: User switched to scene 'Horizontal Glitch Reflect 3'
+17:30:55.504: User switched to scene 'Horizontal Glitch Reflect 2'
+17:31:09.408: User added scene 'Horizontal Glitch Reflect 2 2'
+17:31:09.412: User added source 'Display Capture' (monitor_capture) to scene 'Horizontal Glitch Reflect 2 2'
+17:31:09.412: User added source 'Display Capture 3' (monitor_capture) to scene 'Horizontal Glitch Reflect 2 2'
+17:31:09.433: Switched to scene 'Horizontal Glitch Reflect 2 2'
+17:31:30.974: User removed filter 'Glitch' (shader_filter) from source 'Horizontal Glitch Reflect 2 2'
+17:31:53.170: Source 'Horizontal Glitch Reflect 2 2' renamed to 'Hor edge no glitch'
+17:32:01.816: User added scene 'Hor edge no glitch 2'
+17:32:01.820: User added source 'Display Capture' (monitor_capture) to scene 'Hor edge no glitch 2'
+17:32:01.820: User added source 'Display Capture 3' (monitor_capture) to scene 'Hor edge no glitch 2'
+17:32:01.836: Switched to scene 'Hor edge no glitch 2'
+17:32:37.787: WIC: Only handle JXR for WIC images for now
+17:32:37.787: gs_image_file_init_internal: Failed to load file ''
+17:32:37.808: WIC: Only handle JXR for WIC images for now
+17:32:37.808: gs_image_file_init_internal: Failed to load file ''
+17:36:00.904: User added scene 'Big Pixels'
+17:36:00.905: User added source 'Display Capture' (monitor_capture) to scene 'Big Pixels'
+17:36:00.905: User added source 'Display Capture 3' (monitor_capture) to scene 'Big Pixels'
+17:36:00.921: Switched to scene 'Big Pixels'
+17:36:03.335: User switched to scene 'Horizontal Glitch Reflect'
+17:36:38.829: User switched to scene 'Big Pixels'
+17:36:57.824: User added scene 'Display'
+17:36:57.827: User switched to scene 'Display'
+17:37:15.394: [duplicator-monitor-capture: 'Display Capture 2'] update settings:
+17:37:15.394: 	display:  (0x0)
+17:37:15.394: 	cursor: true
+17:37:15.394: 	method: WGC
+17:37:15.394: 	id: 
+17:37:15.394: 	alt_id: 
+17:37:15.394: 	setting_id: DUMMY
+17:37:15.394: 	force SDR: false
+17:37:15.399: User added source 'Display Capture 2' (monitor_capture) to scene 'Display'
+17:37:15.548: [duplicator-monitor-capture: 'Display Capture 2'] update settings:
+17:37:15.548: 	display:  (2560x1440)
+17:37:15.548: 	cursor: true
+17:37:15.548: 	method: WGC
+17:37:15.548: 	id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+17:37:15.548: 	alt_id: \\.\DISPLAY1
+17:37:15.548: 	setting_id: \\?\DISPLAY#SDCA029#4&29d1fb6&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+17:37:15.548: 	force SDR: false
+17:37:20.886: [duplicator-monitor-capture: 'Display Capture 2'] update settings:
+17:37:20.886: 	display: HP VH27 (1920x1080)
+17:37:20.886: 	cursor: true
+17:37:20.886: 	method: WGC
+17:37:20.886: 	id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+17:37:20.886: 	alt_id: \\.\DISPLAY4
+17:37:20.886: 	setting_id: \\?\DISPLAY#HPN3525#5&468c2f0&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+17:37:20.886: 	force SDR: false
+17:37:29.652: User switched to scene 'Quad Flip'
+17:37:29.683: User switched to scene 'Display'
+17:37:57.552: User added scene 'Pixelated'
+17:37:57.552: User added source 'Display Capture 2' (monitor_capture) to scene 'Pixelated'
+17:37:57.582: Switched to scene 'Pixelated'
+17:38:07.471: User added filter 'User-defined shader' (shader_filter) to source 'Pixelated'
+17:38:09.664: Pass (0) <> missing pixel shader!
+17:38:09.664: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+17:38:09.664: (None)
+17:44:43.826: WIC: Only handle JXR for WIC images for now
+17:44:43.826: gs_image_file_init_internal: Failed to load file ''
+17:44:43.841: WIC: Only handle JXR for WIC images for now
+17:44:43.841: gs_image_file_init_internal: Failed to load file ''
+17:50:13.076: Source 'Pixelated' renamed to 'Vignette'
+17:50:14.539: User switched to scene 'Horizontal Reflect'
+17:50:19.028: User switched to scene 'Horizontal Glitch Reflect'
+17:50:23.643: User switched to scene 'Horizontal Glitch Reflect 3'
+17:50:28.428: User switched to scene 'Horizontal Glitch Reflect'
+17:50:33.006: User switched to scene 'Horizontal Glitch Reflect 2'
+17:50:38.907: User switched to scene 'Hor edge no glitch'
+17:50:43.399: User switched to scene 'Hor edge no glitch 2'
+17:50:49.317: User switched to scene 'Big Pixels'
+17:50:52.545: User switched to scene 'Hor edge no glitch 2'
+17:50:56.426: User switched to scene 'Quad Flip'
+17:51:02.672: User switched to scene 'Kalid Edge Distortion'
+17:51:13.302: User switched to scene 'Kalid Edge Bloom 2 2'
+17:51:18.014: User switched to scene 'Burn'
+17:51:23.126: User switched to scene 'Kalid Edge Bloom 2 2'
+17:51:25.427: User switched to scene 'VCR'
+17:51:29.929: User switched to scene 'Vignette'
+17:51:33.534: User switched to scene 'Horizontal Reflect'
+17:51:38.110: User switched to scene 'Horizontal Glitch Reflect'
+17:51:57.109: User renamed filter 'Edge' on source 'Horizontal Glitch Reflect' to 'Glitch'
+17:52:02.225: User switched to scene 'Horizontal Glitch Reflect 3'
+17:54:22.474: User removed filter 'Edge' (shader_filter) from source 'Horizontal Glitch Reflect 3'
+17:54:34.280: User added filter 'pixelation' (shader_filter) to source 'Horizontal Glitch Reflect 3'
+17:54:40.963: Pass (0) <> missing pixel shader!
+17:54:40.963: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+17:54:40.963: (None)
+17:55:01.424: User switched to scene 'Horizontal Glitch Reflect'
+17:55:05.693: User switched to scene 'Horizontal Glitch Reflect 3'
+17:55:12.827: User added scene 'Horizontal Glitch Reflect 3 2'
+17:55:12.828: User added source 'Display Capture' (monitor_capture) to scene 'Horizontal Glitch Reflect 3 2'
+17:55:12.829: User added source 'Display Capture 3' (monitor_capture) to scene 'Horizontal Glitch Reflect 3 2'
+17:55:12.846: Switched to scene 'Horizontal Glitch Reflect 3 2'
+17:55:14.590: User switched to scene 'Horizontal Glitch Reflect 3'
+17:55:20.488: Source 'Horizontal Glitch Reflect 3' renamed to 'pix reflect'
+17:55:22.027: User switched to scene 'Horizontal Glitch Reflect 3 2'
+17:55:30.186: Source 'Horizontal Glitch Reflect 3 2' renamed to 'pix reflect glitch'
+17:55:36.504: User switched to scene 'Horizontal Glitch Reflect 2'
+17:55:52.747: Source 'Horizontal Glitch Reflect 2' renamed to 'ref edge glitch'
+17:55:54.800: User switched to scene 'Hor edge no glitch'
+17:56:01.598: User switched to scene 'Hor edge no glitch 2'
+17:56:01.616: User switched to scene 'Hor edge no glitch'
+17:56:06.173: User switched to scene 'Quad Kalidiscope'
+17:56:07.210: User switched to scene 'Vignette'
+17:56:08.026: User switched to scene 'Display'
+17:56:10.737: User switched to scene 'pix reflect glitch'
+17:56:25.052: User added filter 'User-defined shader' (shader_filter) to source 'pix reflect glitch'
+17:56:28.297: Pass (0) <> missing pixel shader!
+17:56:28.297: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
+17:56:28.297: (None)
+00:55:32.284: Source Desktop Audio audio is lagging (over by 2111431.60 ms) at max audio buffering. Restarting source audio.
