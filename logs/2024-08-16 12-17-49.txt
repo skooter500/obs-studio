@@ -741,3 +741,79 @@
 11:40:11.747: User switched to scene 'Hor edge no glitch'
 11:40:15.236: User switched to scene 'Kalid Chromatic'
 11:40:18.228: User switched to scene 'Kalid Edge'
+11:53:28.720: Source Desktop Audio audio is lagging (over by 64898.10 ms) at max audio buffering. Restarting source audio.
+11:55:34.417: Source Desktop Audio audio is lagging (over by 73156.13 ms) at max audio buffering. Restarting source audio.
+12:08:01.552: Source Desktop Audio audio is lagging (over by 727866.11 ms) at max audio buffering. Restarting source audio.
+12:25:57.559: WASAPI: Default output device changed
+12:25:57.566: Device 'Speakers (7- USB AUDIO  CODEC)' invalidated.  Retrying (source: Desktop Audio)
+12:25:57.694: WASAPI: Device 'EPSON PJ (NVIDIA High Definition Audio)' [48000 Hz] initialized (source: Desktop Audio)
+12:25:59.738: WASAPI: Default output device changed
+12:25:59.748: Device 'EPSON PJ (NVIDIA High Definition Audio)' invalidated.  Retrying (source: Desktop Audio)
+12:25:59.861: WASAPI: Device 'Speakers (7- USB AUDIO  CODEC)' [48000 Hz] initialized (source: Desktop Audio)
+12:36:21.072: Source Desktop Audio audio is lagging (over by 123510.68 ms) at max audio buffering. Restarting source audio.
+12:54:57.841:   OpenType support missing for "Open Sans", script 12
+12:54:57.843:   OpenType support missing for "Arial", script 12
+12:54:57.844:   OpenType support missing for "Tahoma", script 12
+12:54:57.848:   OpenType support missing for "MS UI Gothic", script 12
+12:54:57.850:   OpenType support missing for "SimSun", script 12
+12:54:57.860:   OpenType support missing for "Segoe UI Emoji", script 12
+12:54:57.862:   OpenType support missing for "Segoe UI Symbol", script 12
+12:54:58.209:   OpenType support missing for "Open Sans", script 11
+12:54:58.210:   OpenType support missing for "Arial", script 11
+12:54:58.210:   OpenType support missing for "Tahoma", script 11
+12:54:58.211:   OpenType support missing for "MS UI Gothic", script 11
+12:54:58.211:   OpenType support missing for "SimSun", script 11
+12:54:58.211:   OpenType support missing for "Segoe UI Emoji", script 11
+12:54:58.212:   OpenType support missing for "Segoe UI Symbol", script 11
+12:54:58.214:   OpenType support missing for "Open Sans", script 16
+12:54:58.215:   OpenType support missing for "Arial", script 16
+12:54:58.216:   OpenType support missing for "Tahoma", script 16
+12:54:58.217:   OpenType support missing for "MS UI Gothic", script 16
+12:54:58.217:   OpenType support missing for "SimSun", script 16
+12:54:58.217:   OpenType support missing for "Segoe UI Emoji", script 16
+12:54:58.218:   OpenType support missing for "Segoe UI Symbol", script 16
+12:54:58.219:   OpenType support missing for "Open Sans", script 20
+12:54:58.220:   OpenType support missing for "Arial", script 20
+12:54:58.221:   OpenType support missing for "Tahoma", script 20
+12:54:58.221:   OpenType support missing for "MS UI Gothic", script 20
+12:54:58.222:   OpenType support missing for "SimSun", script 20
+12:54:58.222:   OpenType support missing for "Segoe UI Emoji", script 20
+12:54:58.224:   OpenType support missing for "Segoe UI Symbol", script 20
+12:57:50.554: Saved screenshot to 'C:/Users/302275/Videos/Screenshot 2024-08-17 12-57-50.png'
+12:58:34.971: Settings changed (hotkeys)
+12:58:34.971: ------------------------------------------------
+12:58:37.819: Saved screenshot to 'C:/Users/302275/Videos/Screenshot 2024-08-17 12-58-37.png'
+12:58:42.137: Saved screenshot to 'C:/Users/302275/Videos/Screenshot 2024-08-17 12-58-41.png'
+12:58:44.866: Starting recording due to hotkey
+12:58:45.029: [obs-nvenc: 'simple_video_recording'] settings:
+12:58:45.029: 	codec:        H264
+12:58:45.029: 	rate_control: CQP
+12:58:45.029: 	bitrate:      0
+12:58:45.029: 	cqp:          23
+12:58:45.029: 	keyint:       250
+12:58:45.029: 	preset:       p5
+12:58:45.029: 	tuning:       hq
+12:58:45.029: 	multipass:    qres
+12:58:45.029: 	profile:      high
+12:58:45.029: 	width:        1920
+12:58:45.029: 	height:       1080
+12:58:45.029: 	b-frames:     2
+12:58:45.029: 	lookahead:    false
+12:58:45.029: 	psycho_aq:    true
+12:58:45.029: 
+12:58:45.118: ---------------------------------
+12:58:45.119: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo
+12:58:45.119: 
+12:58:45.620: ==== Recording Start ===============================================
+12:58:45.620: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/302275/Videos/2024-08-17 12-58-44.mkv'...
+12:58:46.439: Stopping recording due to hotkey
+12:58:47.469: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/302275/Videos/2024-08-17 12-58-44.mkv' stopped
+12:58:47.469: Output 'simple_file_output': stopping
+12:58:47.469: Output 'simple_file_output': Total frames output: 50
+12:58:47.469: Output 'simple_file_output': Total drawn frames: 111
+12:58:47.469: ==== Recording Stop ================================================
+12:58:50.682: Saved screenshot to 'C:/Users/302275/Videos/Screenshot 2024-08-17 12-58-50.png'
+12:58:51.821: Saved screenshot to 'C:/Users/302275/Videos/Screenshot 2024-08-17 12-58-51.png'
+12:59:30.533: Settings changed (hotkeys)
+12:59:30.533: ------------------------------------------------
+12:59:43.439: Could not take a source screenshot: no source selected
