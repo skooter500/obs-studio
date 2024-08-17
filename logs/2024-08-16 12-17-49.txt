@@ -679,3 +679,65 @@
 17:56:28.297: [obs-shaderfilter] Unable to create effect. Errors returned from parser:
 17:56:28.297: (None)
 00:55:32.284: Source Desktop Audio audio is lagging (over by 2111431.60 ms) at max audio buffering. Restarting source audio.
+09:19:05.933: WASAPI: Default output device changed
+09:19:05.962: Device 'Speakers (7- USB AUDIO  CODEC)' invalidated.  Retrying (source: Desktop Audio)
+09:19:09.079: WASAPI: Device 'Speakers / Headphones (Realtek Audio)' [48000 Hz] initialized (source: Desktop Audio)
+09:19:14.445: CreateForMonitor (0x80070057)
+09:19:16.540: CreateForMonitor (0x80070057)
+09:25:13.388: WASAPI: Default output device changed
+09:25:13.391: Device 'Speakers / Headphones (Realtek Audio)' invalidated.  Retrying (source: Desktop Audio)
+09:25:13.536: WASAPI: Device 'Headphones (BB-BT-PILL Stereo)' [44100 Hz] initialized (source: Desktop Audio)
+10:17:01.105: WASAPI: Default output device changed
+10:17:01.109: Device 'Headphones (BB-BT-PILL Stereo)' invalidated.  Retrying (source: Desktop Audio)
+10:22:39.914: WASAPI: Device 'Speakers / Headphones (Realtek Audio)' [48000 Hz] initialized (source: Desktop Audio)
+10:22:48.967: WASAPI: Default output device changed
+10:22:48.969: Device 'Speakers / Headphones (Realtek Audio)' invalidated.  Retrying (source: Desktop Audio)
+10:22:55.099: WASAPI: Device 'Speakers (7- USB AUDIO  CODEC)' [48000 Hz] initialized (source: Desktop Audio)
+10:28:23.699: User switched to scene 'Vignette'
+10:28:23.732: CreateForMonitor (0x80070057)
+10:28:28.173: User switched to scene 'Horizontal Reflect'
+10:29:05.276: User switched to scene 'Horizontal Glitch Reflect'
+10:29:38.579: User switched to scene 'ref edge glitch'
+10:29:45.730: User switched to scene 'Hor edge no glitch'
+10:30:23.068: User switched to scene 'ref edge glitch'
+10:30:27.507: User switched to scene 'Kalid Chromatic'
+10:30:27.529: CreateForMonitor (0x80070057)
+10:30:27.570: CreateForMonitor (0x80070057)
+10:30:27.612: CreateForMonitor (0x80070057)
+10:30:27.655: CreateForMonitor (0x80070057)
+10:31:34.421: User switched to scene 'Kalid Edge'
+10:32:07.094: User switched to scene 'Kalid Edge Bloom'
+10:32:24.960: User switched to scene 'Kalid Chromatic'
+10:32:55.325: User switched to scene 'Quad Kalidiscope'
+10:33:46.037: User switched to scene 'Kalid Chromatic'
+10:33:51.330: User switched to scene 'ref edge glitch'
+10:34:39.842: User switched to scene 'Quad Kalidiscope'
+10:35:12.697: User switched to scene 'Kalid Chromatic'
+10:35:29.089: User switched to scene 'ref edge glitch'
+10:37:50.204: User switched to scene 'Horizontal Reflect'
+10:39:44.049: User switched to scene 'Kalid Chromatic'
+10:40:33.692: User switched to scene 'Hor edge no glitch 2'
+10:41:31.924: User switched to scene 'Big Pixels'
+10:47:05.190: User switched to scene 'Hor edge no glitch 2'
+10:48:29.803: User switched to scene 'Display'
+10:52:13.988: User switched to scene 'Horizontal Reflect'
+10:53:01.713: User switched to scene 'Horizontal Glitch Reflect'
+10:53:15.813: User switched to scene 'pix reflect'
+10:54:26.485: User switched to scene 'Big Pixels'
+10:54:43.676: User switched to scene 'Kalid Edge Bloom'
+10:56:48.625: User switched to scene 'Kalid Edge'
+10:57:05.823: User switched to scene 'Kalid Chromatic'
+11:03:32.275: User switched to scene 'Kalid Edge'
+11:03:56.617: User switched to scene 'Kalid Chromatic'
+11:04:03.306: User switched to scene 'Horizontal Reflect'
+11:04:22.489: User switched to scene 'ref edge glitch'
+11:04:33.687: User switched to scene 'Horizontal Glitch Reflect'
+11:04:51.130: User switched to scene 'ref edge glitch'
+11:04:56.676: User switched to scene 'Kalid Edge'
+11:05:09.551: User switched to scene 'Kalid Chromatic'
+11:07:07.868: User switched to scene 'Hor edge no glitch'
+11:12:51.081: User switched to scene 'Vignette'
+11:12:57.603: User switched to scene 'Display'
+11:40:11.747: User switched to scene 'Hor edge no glitch'
+11:40:15.236: User switched to scene 'Kalid Chromatic'
+11:40:18.228: User switched to scene 'Kalid Edge'
